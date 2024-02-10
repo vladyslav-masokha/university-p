@@ -1,28 +1,28 @@
-`# Python University Repository - First Semester`
+# Python University Repository - Second Semester
 
-`This repository contains Python code and projects for the first semester of university courses.`
+This repository contains Python code and projects for the first semester of university courses.
 
-`## Table of Contents`
+## Table of Contents
 
-`* [Introduction](#introduction)`
-`* [Getting Started](#getting-started)`
-`* [Projects](#projects)`
-`* [Labs](#labs)`
-`* [Additional Tasks](#additional-tasks)`
-`* [Contributing](#contributing)`
-`* [License](#license)`
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+- [Projects](#projects)
+- [Labs](#labs)
+- [Additional Tasks](#additional-tasks)
+- [Contributing](#contributing)
+- [License](#license)
 
-`## Introduction`
+## Introduction
 
-`This repository contains Python code and projects for the first semester of university courses. The code is organized by course and includes both assignments and personal projects.`
+This repository contains Python code and projects for the first semester of university courses. The code is organized by course and includes both assignments and personal projects.
 
-`## Getting Started`
+## Getting Started
 
-`To get started with this repository, you will need to have Python installed on your computer. You can download Python from the following link:`
+To get started with this repository, you will need to have Python installed on your computer. You can download Python from the following link:
 
-`* [Python Official Website](https://www.python.org/)`
+- [Python Official Website](https://www.python.org/)
 
-`Once you have Python installed, you can clone this repository to your local machine using the following command:`
+Once you have Python installed, you can clone this repository to your local machine using the following command:`
 
 ```bash
 git clone https://github.com/vladyslav-masokha/university-p.git
