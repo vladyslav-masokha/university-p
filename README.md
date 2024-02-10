@@ -32,31 +32,9 @@ git clone https://github.com/vladyslav-masokha/university-p.git
 
 This repository contains the following projects:
 
-- [Project 1]
-
-* [Description](project1)
-* [Source Code](project1/src)
-* [Documentation](project1/docs)
-
-## Labs
-
-This repository contains the following lab assignments:
-
-- [Lab 1]
-
-* [Description](lab1)
-* [Source Code](lab1/src)
-* [Instructions](lab1/instructions.md)
-
-## Additional Tasks
-
-This repository also includes additional tasks for practice and learning:
-
-- [Task 1]
-
-* [Description](additional/task1)
-* [Source Code](additional/task1/src)
-* [Instructions](additional/task1/instructions.md)
+- [Projects](projects/)
+- [Labs](labs/)
+- [Additional tasks](additional%20tasks/)
 
 ## Contributing
 
