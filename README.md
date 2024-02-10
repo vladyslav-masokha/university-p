@@ -7,8 +7,6 @@ This repository contains Python code and projects for the first semester of univ
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Projects](#projects)
-- [Labs](#labs)
-- [Additional Tasks](#additional-tasks)
 - [Contributing](#contributing)
 - [License](#license)
 
