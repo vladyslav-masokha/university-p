@@ -3,13 +3,14 @@ import string
 import PySimpleGUI as sg
 
 custom_theme = {
-    'BACKGROUND': '#FFFFFF',
-    'TEXT': '#000000',
-    'INPUT': '#FFFFFF',
-    'TEXT_INPUT': '#000000',
-    'SCROLL': '#FFFFFF',
-    'BUTTON': ('#FFFFFF', '#000000'),
-    'PROGRESS': ('#FFFFFF', '#000000'),
+    'BACKGROUND': '#1E1E1E',
+    'TEXT': '#FFFFFF',
+    'INPUT': '#2E2E2E',
+    'TEXT_INPUT': '#FFFFFF',
+    'SCROLL': '#2E2E2E',
+    'BUTTON': ('#2E2E2E', '#FFFFFF'),
+    'PROGRESS': ('#2E2E2E', '#FFFFFF'),
+    'TITLE': '#FFD700',
     'BORDER': 1,
     'SLIDER_DEPTH': 0,
     'PROGRESS_DEPTH': 0
@@ -32,7 +33,7 @@ windows = sg.Window('Password generator', layout)
 while True:
     event, values = windows.read()
     
-    if event == 'Cancel' or event == windows.was_closed:
+    if event == 'Cancel' or event == sg.WIN_CLOSED:
         break
     
     if event == 'Generate':
