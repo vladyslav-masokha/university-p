@@ -12,8 +12,7 @@ def task1 (my_list: list):
   return my_list, min_element, max_element, list_length
 
 def task2(A, B, C):
-  cost_per_item = [quantity * price for quantity, price in zip(B, C)]
-  total_cost = sum(cost_per_item)
+  total_cost = sum([quantity * price for quantity, price in zip(B, C)])
   
   average_price = sum(C) / len(C)
   
@@ -40,7 +39,7 @@ def task4(my_string):
 
 def task5(my_string):
     modified_str = my_string.replace("GOOD", "NICE")
-    word_count = len(my_string.split())
+    word_count = len(modified_str.split())
     return modified_str, word_count
 
 def task6():
