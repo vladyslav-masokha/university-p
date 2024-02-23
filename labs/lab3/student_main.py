@@ -1,4 +1,4 @@
-def task1 (my_list: list):
+def task1 (my_list):
   my_list.insert(1, -5)
   
   min_element = min(my_list)
