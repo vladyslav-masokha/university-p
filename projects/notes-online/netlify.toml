@@ -1,17 +1,8 @@
 [build]
-functions = "functions/"
+  command = "python main.py"
+  publish = "/projects/notes-online"
 
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
-
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Access-Control-Allow-Origin = "*"
-
-[[headers]]
-  for = "/static/*"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000"
