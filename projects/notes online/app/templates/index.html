@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link
+			rel="stylesheet"
+			href="{{ url_for('static', filename='styles.css') }}"
+		/>
+		<title>Notes Online</title>
+	</head>
+	<body>
+		<div id="root">
+			<h1 class="formTitle">Notes Online</h1>
+
+			<div class="notes">
+				<form action="{{ url_for('add_note') }}" method="post" class="form">
+					<input type="text" name="note" placeholder="Введіть нову нотатку" />
+					<button type="submit">Додати нотатку</button>
+				</form>
+
+				<a href="{{ url_for('clear_notes') }}" class="clearButton">Очистити нотатки</a>
+
+				<ul class="noteList">
+					{% for note in notes %}
+					<li class="note">
+						{{ note }}
+						<div class="noteButtons">
+							<a href="{{ url_for('edit_note', index=loop.index0) }}" class="editButton">Edit</a>
+							<a href="{{ url_for('delete_note', index=loop.index0) }}" class="deleteButton"
+								>Delete</a
+							>
+						</div>
+					</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
+	</body>
+</html>
