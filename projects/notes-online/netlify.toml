@@ -1,5 +1,5 @@
 [build]
-  command = "gunicorn wsgi:app"
+  command = "python -m http.server"
   publish = "projects/notes-online"
 
 [[redirects]]
