@@ -4,24 +4,16 @@ body {
 	margin: 0;
 }
 
-#app {
-	padding: 0 15px;
-}
-
 #root {
 	max-width: 500px;
 	margin: 30px auto;
 	padding: 15px 0;
-
-	background-color: #000;
-	border-radius: 10px;
 }
 
 .formTitle {
 	text-align: center;
 	padding: 0 0 15px;
-
-	color: #eee;
+	color: #222;
 	margin: 0;
 }
 
@@ -47,6 +39,7 @@ input[type='text'] {
 	font-size: 14px;
 	outline: none;
 	border: none;
+	border: 1px solid #222;
 }
 
 button[type='submit'] {
@@ -91,10 +84,10 @@ button[type='submit']:hover {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	background-color: white;
+	background-color: #fff;
 	padding: 10px;
 	border-radius: 4px;
-	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 2px 4px #00000045;
 }
 
 .noteButtons {
