@@ -1,6 +1,6 @@
 [build]
-  command = "gunicorn -b 0.0.0.0:8080 wsgi:app"
-	publish = "projects/notes-online"
+  command = "gunicorn wsgi:app"
+  publish = "projects/notes-online"
 
 [[redirects]]
   from = "/*"
