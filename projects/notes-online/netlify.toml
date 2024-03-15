@@ -1,6 +1,6 @@
 [build]
-  command = "python main.py"
-  publish = "/projects/notes-online"
+  command = "pip install -r requirements.txt && python main.py"
+	publish = "projects/notes-online"
 
 [[redirects]]
   from = "/*"
