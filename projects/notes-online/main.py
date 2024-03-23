@@ -8,9 +8,8 @@ app.secret_key = secrets.token_hex(16)
 
 login_manager = LoginManager()
 login_manager.init_app(app)
-login_manager.login_view = 'login'  # Перенаправлення на сторінку логіну
+login_manager.login_view = 'login'
 
-# Замість бази даних ми використовуватимемо словник для зручності демонстрації
 users = {'user1': {'password': 'pass1'}, 'user2': {'password': 'pass2'}}
 notes_data = {}
 
@@ -27,7 +26,7 @@ def load_user(user_id):
         return User(user_id)
     return None
 
-@app.errorhandler(401)  # Обробник помилки "Unauthorized"
+@app.errorhandler(401)
 def unauthorized(error):
     flash('Для перегляду цієї сторінки потрібно увійти в систему', 'error')
     return redirect(url_for('login'))
