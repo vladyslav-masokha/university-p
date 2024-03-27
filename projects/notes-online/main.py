@@ -55,7 +55,7 @@ def edit_note(note_id):
         return redirect(url_for('index'))
 
     if request.method == 'POST':
-        content = request.form.get('note')
+        content = request.form.get('content')
         if content is not None and content.strip(): 
             note.content = content.strip()
             db.session.commit()
