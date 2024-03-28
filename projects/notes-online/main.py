@@ -1,12 +1,15 @@
+import os
+import secrets
 from flask import Flask, render_template, request, redirect, url_for, flash
 from flask_login import LoginManager, UserMixin, login_user, logout_user, login_required, current_user
 from flask_sqlalchemy import SQLAlchemy
-import secrets
 
 app = Flask(__name__)
-app.secret_key = secrets.token_hex(16)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///notes.db'
+app.secret_key = os.environ.get('SECRET_KEY') or secrets.token_hex(16)
+
+app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL') or 'sqlite:///notes.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+
 db = SQLAlchemy(app)
 login_manager = LoginManager()
 login_manager.init_app(app)
@@ -131,4 +134,6 @@ def logout():
 if __name__ == '__main__':
     with app.app_context():
         db.create_all()
-    app.run(debug=True)
+        
+        if 'DATABASE_URL' not in os.environ:
+            app.run(debug=True)
