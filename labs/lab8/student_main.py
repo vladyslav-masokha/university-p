@@ -13,19 +13,21 @@ def task2(data, path):
   
   with open(path, 'w') as file:
     file.write(dataJson)
-    
+
 def task3(schema, paths):
-  invalidFiles = []
-  
-  for path in paths:
-    try:
-      with open(path, 'r') as file:
-        data = json.load(file)
-        validate(instance=data, schema=schema)
-    except ValidationError:
-      invalidFiles.append(path)
-  
-  return invalidFiles
+    invalidFiles = []
+    
+    for path in paths:
+        try:
+            with open(path, 'r') as file:
+                data = json.load(file)
+                validate(instance=data, schema=schema)
+        except ValidationError:
+            invalidFiles.append(path)
+        except Exception:
+            invalidFiles.append(path)
+    
+    return invalidFiles
 
 def task4(path, key):
     with open(path, 'r') as file:
