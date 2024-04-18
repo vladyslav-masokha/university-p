@@ -1,9 +1,26 @@
-import requests, json, re
+import requests, json, re, operator
 import tkinter as tk
 from tkinter import ttk, filedialog
 from bs4 import BeautifulSoup
 
 iphones = []
+color_names = {
+    "#000": "Чорний",
+    "#33F": "Блакитний",
+    "#666": "Сірий",
+    "#FFF": "Білий",
+    "#30C": "Синій",
+    "#181F27": "Чорний",
+    "#F9F": "Розовий",
+    "#F00": "Червоний",
+    "#f00": "Червоний",
+    "#F8F3EF": "Білий",
+    "#390": "Зелений",
+    "#909": "Розовий",
+    "#FF0": "Жовтий",
+    "#FFD700": "Жовтий",
+    "#CCC": "Сірий",
+}
 
 def get_iphones():
     max_pages = 3
@@ -82,7 +99,8 @@ def display_iphones():
     tree.delete(*tree.get_children())
     for iphone in iphones:
         storage = iphone.get("storage", "Немає даних")
-        tree.insert("", "end", values=(iphone["id"], iphone["name"], iphone["price"], iphone["ram"], storage, ", ".join(iphone["colors"]), iphone["display"], iphone["processor"], iphone["system"]))
+        colors_text = ", ".join(color_names.get(color, color) for color in iphone["colors"])
+        tree.insert("", "end", values=(iphone["id"], iphone["name"], iphone["price"], iphone["ram"], storage, colors_text, iphone["display"], iphone["processor"], iphone["system"]))
         
 def edit_iphone():
     selected_items = tree.selection()
@@ -179,6 +197,15 @@ def load_iphones():
                 print("JSON файл успішно завантажений!")
         except FileNotFoundError:
             print("JSON файл не знайдено.")
+        
+def treeview_sort_column(tv, col, reverse):
+    l = [(tv.set(k, col), k) for k in tv.get_children('')]
+    l.sort(reverse=reverse)
+
+    for index, (val, k) in enumerate(l):
+        tv.move(k, '', index)
+
+    tv.heading(col, command=lambda: treeview_sort_column(tv, col, not reverse))
 
 root = tk.Tk()
 root.title("iPhone Information")
@@ -195,15 +222,15 @@ frame = tk.Frame(root)
 frame.pack(pady=20)
 
 tree = ttk.Treeview(frame, columns=("ID", "Name", "Price", "RAM", "Storage", "Colors", "Display", "Processor", "System"), show="headings")
-tree.heading("ID", text="ID")
-tree.heading("Name", text="Назва")
-tree.heading("Price", text="Ціна")
-tree.heading("RAM", text="Оперативна пам'ять")
-tree.heading("Storage", text="Вбудована пам'ять")
-tree.heading("Colors", text="Кольори")
-tree.heading("Display", text="Екран")
-tree.heading("Processor", text="Процесор")
-tree.heading("System", text="Система")
+tree.heading("ID", text="ID", command=lambda: treeview_sort_column(tree, "ID", False))
+tree.heading("Name", text="Назва", command=lambda: treeview_sort_column(tree, "Name", False))
+tree.heading("Price", text="Ціна", command=lambda: treeview_sort_column(tree, "Price", False))
+tree.heading("RAM", text="Оперативна пам'ять", command=lambda: treeview_sort_column(tree, "RAM", False))
+tree.heading("Storage", text="Вбудована пам'ять", command=lambda: treeview_sort_column(tree, "Storage", False))
+tree.heading("Colors", text="Кольори", command=lambda: treeview_sort_column(tree, "Colors", False))
+tree.heading("Display", text="Екран", command=lambda: treeview_sort_column(tree, "Display", False))
+tree.heading("Processor", text="Процесор", command=lambda: treeview_sort_column(tree, "Processor", False))
+tree.heading("System", text="Система", command=lambda: treeview_sort_column(tree, "System", False))
 
 tree.pack(fill="both", expand=True)
 
