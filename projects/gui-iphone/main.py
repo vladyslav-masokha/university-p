@@ -13,12 +13,12 @@ color_names = {
     "#FFF": "Білий",
     "#30C": "Синій",
     "#181F27": "Чорний",
-    "#F9F": "Розовий",
+    "#F9F": "Рожевий",
     "#F00": "Червоний",
     "#f00": "Червоний",
     "#F8F3EF": "Білий",
     "#390": "Зелений",
-    "#909": "Розовий",
+    "#909": "Рожевий",
     "#FF0": "Жовтий",
     "#FFD700": "Жовтий",
     "#CCC": "Сірий",
@@ -36,8 +36,6 @@ def get_iphones():
         product_blocks = soup.find_all("div", class_="goods-tile")
 
         for block in product_blocks:
-            if(len(iphones) > 1):
-                break
             id = int(block.find("div", class_="g-id").text.strip())
             name = block.find("span", class_="goods-tile__title").text.strip()
 
@@ -103,20 +101,35 @@ def save_changes():
     print("Зміни збережено!")
 
 def display_iphones():
+    global selected_image
+    selected_image = None
+
     tree.delete(*tree.get_children())
     for iphone in iphones:
         storage = iphone.get("storage", "Немає даних")
         colors_text = ", ".join(color_names.get(color, color) for color in iphone["colors"])
         image_url = iphone.get("image_url")
+
+        tree.insert("", "end", values=(iphone["id"], iphone["name"], iphone["price"], iphone["ram"], storage, colors_text, iphone["display"], iphone["processor"], iphone["system"], image_url))
+
+    tree.column("Картинка", width=200)
         
+def show_selected_image(event):
+    global selected_image
+    selected_item = tree.selection()
+    if selected_item:
+        item = tree.item(selected_item)
+        image_url = item["values"][9]
+
         if image_url:
-            image = Image.open(requests.get(image_url, stream=True).raw)
-            image = image.resize((50, 50), Image.LANCZOS)
-            photo = ImageTk.PhotoImage(image)
-            images[iphone["id"]] = photo
-        
-        tree.insert("", "end", values=(iphone["id"], iphone["name"], iphone["price"], iphone["ram"], storage, colors_text, iphone["display"], iphone["processor"], iphone["system"], photo))
-        
+            response = requests.get(image_url, stream=True)
+            image = Image.open(response.raw)
+            photo = ImageTk.PhotoImage(image.resize((200, 200), Image.LANCZOS))
+            selected_image = photo
+            image_label.configure(image=photo)
+            image_label.image = photo
+        else:
+            image_label.configure(image=None)
         
 def edit_iphone():
     selected_items = tree.selection()
@@ -131,7 +144,7 @@ def edit_iphone():
     if iphone:
         edit_window = tk.Toplevel()
         edit_window.title("Редагування")
-        edit_window.geometry("500x500")
+        edit_window.geometry("500x600")
 
         label_name = tk.Label(edit_window, text="Назва:")
         label_name.pack()
@@ -147,50 +160,50 @@ def edit_iphone():
 
         label_ram = tk.Label(edit_window, text="Оперативна пам'ять:")
         label_ram.pack()
-        entry_ram = tk.Entry(edit_window)
+        entry_ram = tk.Entry(edit_window, width=50)
         entry_ram.pack()
         entry_ram.insert(0, iphone["ram"])
 
         label_storage = tk.Label(edit_window, text="Вбудована пам'ять:")
         label_storage.pack()
-        entry_storage = tk.Entry(edit_window)
+        entry_storage = tk.Entry(edit_window, width=50)
         entry_storage.pack()
         entry_storage.insert(0, iphone["storage"])
 
         label_colors = tk.Label(edit_window, text="Кольори (comma-separated):")
         label_colors.pack()
-        entry_colors = tk.Entry(edit_window)
+        entry_colors = tk.Entry(edit_window, width=50)
         entry_colors.pack()
         entry_colors.insert(0, ", ".join(color_names.get(color, color) for color in iphone["colors"]))
 
         label_display = tk.Label(edit_window, text="Екран:")
         label_display.pack()
-        entry_display = tk.Entry(edit_window)
+        entry_display = tk.Entry(edit_window, width=50)
         entry_display.pack()
         entry_display.insert(0, iphone["display"])
 
         label_processor = tk.Label(edit_window, text="Процесор:")
         label_processor.pack()
-        entry_processor = tk.Entry(edit_window)
+        entry_processor = tk.Entry(edit_window, width=50)
         entry_processor.pack()
         entry_processor.insert(0, iphone["processor"])
 
         label_system = tk.Label(edit_window, text="Система:")
         label_system.pack()
-        entry_system = tk.Entry(edit_window)
+        entry_system = tk.Entry(edit_window, width=50)
         entry_system.pack()
         entry_system.insert(0, iphone["system"])
         
-        label_image = tk.Label(edit_window, text="Картинка:")
+        label_image = tk.Label(edit_window, text="Картинка (посилання):")
         label_image.pack()
-        entry_image = tk.Entry(edit_window)
+        entry_image = tk.Entry(edit_window, width=50)
         entry_image.pack()
         entry_image.insert(0, iphone["image_url"])
         
         image_url = iphone.get("image_url")
         if image_url:
             image = Image.open(requests.get(image_url, stream=True).raw)
-            image = image.resize((50, 50), Image.LANCZOS)
+            image = image.resize((100, 100), Image.LANCZOS)
             photo = ImageTk.PhotoImage(image)
             label_image = tk.Label(edit_window, image=photo)
             label_image.image = photo 
@@ -208,7 +221,7 @@ def edit_iphone():
                 "display": entry_display.get(),
                 "processor": entry_processor.get(),
                 "system": entry_system.get(),
-                "image_url": iphone.get("image_url")
+                "image_url": entry_image.get()
             }
             iphones[iphones.index(iphone)] = new_iphone
             edit_window.destroy()
@@ -241,9 +254,9 @@ def treeview_sort_column(tv, col, reverse):
     tv.heading(col, command=lambda: treeview_sort_column(tv, col, not reverse))
 
 root = tk.Tk()
-root.title("iPhone Information")
+root.title("Інформація про iPhone")
 
-window_width = 800
+window_width = 1120
 window_height = 600
 screen_width = root.winfo_screenwidth()
 screen_height = root.winfo_screenheight()
@@ -252,46 +265,56 @@ y = (screen_height // 2) - (window_height // 2)
 root.geometry(f"{window_width}x{window_height}+{x}+{y}")
 
 frame = tk.Frame(root)
-frame.pack(pady=20)
+frame.pack(pady=20, expand=True)
+frame.config(height=600)
 
-tree = ttk.Treeview(frame, columns=("ID", "Name", "Price", "RAM", "Storage", "Colors", "Display", "Processor", "System", "Image"), show="headings")
+tree = ttk.Treeview(frame, columns=("ID", "Назва", "Ціна", "Оперативна пам'ять", "Вбудована пам'ять", "Кольори", "Екран", "Процесор", "Система", "Картинка"), show="headings")
+
 tree.heading("ID", text="ID", command=lambda: treeview_sort_column(tree, "ID", False))
-tree.heading("Name", text="Назва", command=lambda: treeview_sort_column(tree, "Name", False))
-tree.heading("Price", text="Ціна", command=lambda: treeview_sort_column(tree, "Price", False))
-tree.heading("RAM", text="Оперативна пам'ять", command=lambda: treeview_sort_column(tree, "RAM", False))
-tree.heading("Storage", text="Вбудована пам'ять", command=lambda: treeview_sort_column(tree, "Storage", False))
-tree.heading("Colors", text="Кольори", command=lambda: treeview_sort_column(tree, "Colors", False))
-tree.heading("Display", text="Екран", command=lambda: treeview_sort_column(tree, "Display", False))
-tree.heading("Processor", text="Процесор", command=lambda: treeview_sort_column(tree, "Processor", False))
-tree.heading("System", text="Система", command=lambda: treeview_sort_column(tree, "System", False))
-tree.heading("Image", text="Картинка", command=lambda: treeview_sort_column(tree, "Image", False))
+tree.heading("Назва", text="Назва", command=lambda: treeview_sort_column(tree, "Назва", False))
+tree.heading("Ціна", text="Ціна", command=lambda: treeview_sort_column(tree, "Ціна", False))
+tree.heading("Оперативна пам'ять", text="Оперативна пам'ять", command=lambda: treeview_sort_column(tree, "Оперативна пам'ять", False))
+tree.heading("Вбудована пам'ять", text="Вбудована пам'ять", command=lambda: treeview_sort_column(tree, "Вбудована пам'ять", False))
+tree.heading("Кольори", text="Кольори", command=lambda: treeview_sort_column(tree, "Кольори", False))
+tree.heading("Екран", text="Екран", command=lambda: treeview_sort_column(tree, "Екран", False))
+tree.heading("Процесор", text="Процесор", command=lambda: treeview_sort_column(tree, "Процесор", False))
+tree.heading("Система", text="Система", command=lambda: treeview_sort_column(tree, "Система", False))
+tree.heading("Картинка", text="Картинка", command=lambda: treeview_sort_column(tree, "Картинка", False))
 
 tree.pack(fill="both", expand=True)
 
 for col in tree["columns"]:
     tree.heading(col, text=col)
     
-tree.column("ID", width=50)
-tree.column("Name", width=150)
-tree.column("Price", width=70)
-tree.column("RAM", width=50)
-tree.column("Storage", width=70)
-tree.column("Colors", width=100)
-tree.column("Display", width=70)
-tree.column("Processor", width=100)
-tree.column("System", width=70)
-tree.column("Image", width=50)
+tree.column("ID", width=70)
+tree.column("Назва", width=150)
+tree.column("Ціна", width=60)
+tree.column("Оперативна пам'ять", width=100)
+tree.column("Вбудована пам'ять", width=70)
+tree.column("Кольори", width=120)
+tree.column("Екран", width=230)
+tree.column("Процесор", width=100)
+tree.column("Система", width=70)
+tree.column("Картинка", width=50)
 
-button_display = tk.Button(frame, text="Отримати дані", command=get_iphones)
+tree.bind("<<TreeviewSelect>>", show_selected_image)
+
+button_frame = tk.Frame(root)
+button_frame.pack(side=tk.LEFT, padx=20, pady=20)
+
+button_display = tk.Button(button_frame, text="Отримати дані", command=get_iphones)
 button_display.pack(pady=10)
 
-button_display = tk.Button(frame, text="Завантажити JSON", command=load_iphones)
+button_display = tk.Button(button_frame, text="Завантажити JSON", command=load_iphones)
 button_display.pack(pady=10)
 
-button_save = tk.Button(frame, text="Зберегти зміни", command=save_changes)
+button_save = tk.Button(button_frame, text="Зберегти зміни", command=save_changes)
 button_save.pack(pady=10)
 
-button_edit = tk.Button(frame, text="Редагувати", command=edit_iphone)
+button_edit = tk.Button(button_frame, text="Редагувати", command=edit_iphone)
 button_edit.pack(pady=10)
+
+image_label = tk.Label(root)
+image_label.pack(side=tk.RIGHT, padx=20, pady=20)
 
 root.mainloop()
