@@ -1,7 +1,7 @@
 [
     {
         "id": 395461104,
-        "name": "Мобільний телефон Apple iPhone 15 Pro Max 256GB Natural Titanium (MU793RX/A)",
+        "name": "Apple iPhone 15 Pro Max 256GB Natural Titanium (MU793RX/A)",
         "price": 51999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -19,7 +19,7 @@
     },
     {
         "id": 395460909,
-        "name": "Мобільний телефон Apple iPhone 15 Pro 128GB Natural Titanium (MTUX3RX/A)",
+        "name": "Apple iPhone 15 Pro 128GB Natural Titanium (MTUX3RX/A)",
         "price": 43499,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -37,7 +37,7 @@
     },
     {
         "id": 318463663,
-        "name": "Мобільний телефон Apple iPhone 13 128GB Midnight (MLPF3HU/A)",
+        "name": "Apple iPhone 13 128GB Midnight (MLPF3HU/A)",
         "price": 27999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -57,24 +57,25 @@
     },
     {
         "id": 395460915,
-        "name": " Titanium (MTV13RX/A)",
+        "name": "Apple iPhone 15 Pro 256GB Black Titanium (MTV13RX/A)",
         "price": 48499,
         "ram": "Немає даних",
         "storage": "256 ГБ",
         "colors": [
-            "Чорний",
-            "Синій",
-            "Сірий",
-            "Білий"
+            "#000",
+            "#30C",
+            "#666",
+            "#FFF"
         ],
         "display": "Екран (6.1\", OLED (Super Retina XDR)",
         "processor": "Apple A17",
         "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-256gb-black-titanium/p395460915/",
         "image_url": "https://content1.rozetka.com.ua/goods/images/big_tile/364827123.jpg"
     },
     {
         "id": 395460636,
-        "name": "Мобільний телефон Apple iPhone 15 128GB Pink (MTP13RX/A)",
+        "name": "Apple iPhone 15 128GB Pink (MTP13RX/A)",
         "price": 36999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -93,7 +94,7 @@
     },
     {
         "id": 352490619,
-        "name": "Мобільний телефон Apple iPhone 14 128GB Starlight (MPUR3RX/A)",
+        "name": "Apple iPhone 14 128GB Starlight (MPUR3RX/A)",
         "price": 31999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -113,7 +114,7 @@
     },
     {
         "id": 352490757,
-        "name": "Мобільний телефон Apple iPhone 14 Plus 128GB Purple (MQ503RX/A)",
+        "name": "Apple iPhone 14 Plus 128GB Purple (MQ503RX/A)",
         "price": 36999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -131,7 +132,7 @@
     },
     {
         "id": 395460585,
-        "name": "Мобільний телефон Apple iPhone 15 Plus 128GB Black (MU0Y3RX/A)",
+        "name": "Apple iPhone 15 Plus 128GB Black (MU0Y3RX/A)",
         "price": 41999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -150,7 +151,7 @@
     },
     {
         "id": 260920656,
-        "name": "Мобільний телефон Apple iPhone 11 128GB Black (MHDH3)",
+        "name": "Apple iPhone 11 128GB Black (MHDH3)",
         "price": 21999,
         "ram": "4 ГБ",
         "storage": "128 ГБ",
@@ -166,7 +167,7 @@
     },
     {
         "id": 245162401,
-        "name": "Мобільний телефон Apple iPhone 12 128GB Purple (MJNP3FS/A)",
+        "name": "Apple iPhone 12 128GB Purple (MJNP3FS/A)",
         "price": 23999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -183,26 +184,8 @@
         "image_url": "https://content1.rozetka.com.ua/goods/images/big_tile/175435404.jpg"
     },
     {
-        "id": 395460924,
-        "name": "Мобільний телефон Apple iPhone 15 Pro 256GB Natural Titanium (MTV53RX/A)",
-        "price": 48499,
-        "ram": "Немає даних",
-        "storage": "256 ГБ",
-        "colors": [
-            "#000",
-            "#30C",
-            "#666",
-            "#FFF"
-        ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A17",
-        "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-256gb-natural-titanium/p395460924/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
         "id": 395461038,
-        "name": "Мобільний телефон Apple iPhone 15 Pro Max 256GB Black Titanium (MU773RX/A)",
+        "name": "Apple iPhone 15 Pro Max 256GB Black Titanium (MU773RX/A)",
         "price": 51999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -219,26 +202,26 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 395461095,
-        "name": "Мобільний телефон Apple iPhone 15 Pro Max 256GB White Titanium (MU783RX/A)",
-        "price": 51999,
+        "id": 395460924,
+        "name": "Apple iPhone 15 Pro 256GB Natural Titanium (MTV53RX/A)",
+        "price": 48499,
         "ram": "Немає даних",
         "storage": "256 ГБ",
         "colors": [
             "#000",
-            "#33F",
+            "#30C",
             "#666",
             "#FFF"
         ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
         "processor": "Apple A17",
         "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-max-256gb-white-titanium/p395461095/",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-256gb-natural-titanium/p395460924/",
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
         "id": 395461101,
-        "name": "Мобільний телефон Apple iPhone 15 Pro Max 256GB Blue Titanium (MU7A3RX/A)",
+        "name": "Apple iPhone 15 Pro Max 256GB Blue Titanium (MU7A3RX/A)",
         "price": 51999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -255,8 +238,26 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
+        "id": 395461095,
+        "name": "Apple iPhone 15 Pro Max 256GB White Titanium (MU783RX/A)",
+        "price": 51999,
+        "ram": "Немає даних",
+        "storage": "256 ГБ",
+        "colors": [
+            "#000",
+            "#33F",
+            "#666",
+            "#FFF"
+        ],
+        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "processor": "Apple A17",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-max-256gb-white-titanium/p395461095/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
         "id": 395461116,
-        "name": "Мобільний телефон Apple iPhone 15 Pro Max 512GB Natural Titanium (MU7E3RX/A)",
+        "name": "Apple iPhone 15 Pro Max 512GB Natural Titanium (MU7E3RX/A)",
         "price": 61999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -273,26 +274,8 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 395461107,
-        "name": "Мобільний телефон Apple iPhone 15 Pro Max 512GB Black Titanium (MU7C3RX/A)",
-        "price": 61999,
-        "ram": "Немає даних",
-        "storage": "512 ГБ",
-        "colors": [
-            "#000",
-            "#33F",
-            "#666",
-            "#FFF"
-        ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
-        "processor": "Apple A17",
-        "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-max-512gb-black-titanium/p395461107/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
         "id": 395461113,
-        "name": "Мобільний телефон Apple iPhone 15 Pro Max 512GB Blue Titanium (MU7F3RX/A)",
+        "name": "Apple iPhone 15 Pro Max 512GB Blue Titanium (MU7F3RX/A)",
         "price": 61999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -309,27 +292,8 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 395460480,
-        "name": "Мобільний телефон Apple iPhone 15 128GB Black (MTP03RX/A)",
-        "price": 36999,
-        "ram": "Немає даних",
-        "storage": "128 ГБ",
-        "colors": [
-            "#000",
-            "#33F",
-            "#390",
-            "#F9F",
-            "#FF0"
-        ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
-        "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-128gb-black/p395460480/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
         "id": 318463324,
-        "name": "Мобільний телефон Apple iPhone 13 128GB Pink (MLPH3HU/A)",
+        "name": "Apple iPhone 13 128GB Pink (MLPH3HU/A)",
         "price": 27999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -348,8 +312,45 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
+        "id": 395460921,
+        "name": "Apple iPhone 15 Pro 256GB Blue Titanium (MTV63RX/A)",
+        "price": 48499,
+        "ram": "Немає даних",
+        "storage": "256 ГБ",
+        "colors": [
+            "#000",
+            "#30C",
+            "#666",
+            "#FFF"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A17",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-256gb-blue-titanium/p395460921/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 395460480,
+        "name": "Apple iPhone 15 128GB Black (MTP03RX/A)",
+        "price": 36999,
+        "ram": "Немає даних",
+        "storage": "128 ГБ",
+        "colors": [
+            "#000",
+            "#33F",
+            "#390",
+            "#F9F",
+            "#FF0"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-128gb-black/p395460480/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
         "id": 318463900,
-        "name": "Мобільний телефон Apple iPhone 13 128GB Starlight (MLPG3HU/A)",
+        "name": "Apple iPhone 13 128GB Starlight (MLPG3HU/A)",
         "price": 27999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -368,11 +369,11 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 395460921,
-        "name": "Мобільний телефон Apple iPhone 15 Pro 256GB Blue Titanium (MTV63RX/A)",
-        "price": 48499,
+        "id": 395460900,
+        "name": "Apple iPhone 15 Pro 128GB White Titanium (MTUW3RX/A)",
+        "price": 43499,
         "ram": "Немає даних",
-        "storage": "256 ГБ",
+        "storage": "128 ГБ",
         "colors": [
             "#000",
             "#30C",
@@ -382,12 +383,12 @@
         "display": "Екран (6.1\", OLED (Super Retina XDR)",
         "processor": "Apple A17",
         "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-256gb-blue-titanium/p395460921/",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-128gb-white-titanium/p395460900/",
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
         "id": 318466330,
-        "name": "Мобільний телефон Apple iPhone 13 256GB Midnight (MLQ63HU/A)",
+        "name": "Apple iPhone 13 256GB Midnight (MLQ63HU/A)",
         "price": 32999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -406,8 +407,26 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
+        "id": 395461110,
+        "name": "Apple iPhone 15 Pro Max 512GB White Titanium (MU7D3RX/A)",
+        "price": 61999,
+        "ram": "Немає даних",
+        "storage": "512 ГБ",
+        "colors": [
+            "#000",
+            "#33F",
+            "#666",
+            "#FFF"
+        ],
+        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "processor": "Apple A17",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-max-512gb-white-titanium/p395461110/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
         "id": 318463660,
-        "name": "Мобільний телефон Apple iPhone 13 128GB Blue (MLPK3HU/A)",
+        "name": "Apple iPhone 13 128GB Blue (MLPK3HU/A)",
         "price": 27999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -426,26 +445,26 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 395461110,
-        "name": "Мобільний телефон Apple iPhone 15 Pro Max 512GB White Titanium (MU7D3RX/A)",
-        "price": 61999,
+        "id": 245162293,
+        "name": "Apple iPhone 12 128GB Black (MGJA3FS/A)",
+        "price": 23999,
         "ram": "Немає даних",
-        "storage": "512 ГБ",
+        "storage": "128 ГБ",
         "colors": [
             "#000",
-            "#33F",
-            "#666",
+            "#390",
+            "#909",
             "#FFF"
         ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
-        "processor": "Apple A17",
-        "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-max-512gb-white-titanium/p395461110/",
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A15",
+        "system": "iOS 15",
+        "url": "https://rozetka.com.ua/ua/apple_iphone_12_128gb_black/p245162293/",
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
         "id": 318466321,
-        "name": "Мобільний телефон Apple iPhone 13 256GB Pink (MLQ83HU/A)",
+        "name": "Apple iPhone 13 256GB Pink (MLQ83HU/A)",
         "price": 32999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -465,7 +484,7 @@
     },
     {
         "id": 395460621,
-        "name": "Мобільний телефон Apple iPhone 15 128GB Blue (MTP43RX/A)",
+        "name": "Apple iPhone 15 128GB Blue (MTP43RX/A)",
         "price": 36999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -483,28 +502,8 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 318465355,
-        "name": "Мобільний телефон Apple iPhone 13 128GB (PRODUCT) Red (MLPJ3HU/A)",
-        "price": 27999,
-        "ram": "Немає даних",
-        "storage": "128 ГБ",
-        "colors": [
-            "#33F",
-            "#390",
-            "#181F27",
-            "#F9F",
-            "#F00",
-            "#F8F3EF"
-        ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A15",
-        "system": "iOS 15",
-        "url": "https://rozetka.com.ua/ua/apple_iphone_13_128gb_product_red/p318465355/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
         "id": 318466333,
-        "name": "Мобільний телефон Apple iPhone 13 256GB Starlight (MLQ73HU/A)",
+        "name": "Apple iPhone 13 256GB Starlight (MLQ73HU/A)",
         "price": 32999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -523,48 +522,12 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 245162293,
-        "name": "Мобільний телефон Apple iPhone 12 128GB Black (MGJA3FS/A)",
-        "price": 23999,
-        "ram": "Немає даних",
-        "storage": "256 ГБ",
-        "colors": [
-            "#000",
-            "#390",
-            "#909",
-            "#FFF"
-        ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A15",
-        "system": "iOS 15",
-        "url": "https://rozetka.com.ua/ua/apple_iphone_12_128gb_black/p245162293/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
-        "id": 395460900,
-        "name": "Мобільний телефон Apple iPhone 15 Pro 128GB White Titanium (MTUW3RX/A)",
-        "price": 43499,
+        "id": 318465355,
+        "name": "Apple iPhone 13 128GB (PRODUCT) Red (MLPJ3HU/A)",
+        "price": 27999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
         "colors": [
-            "#000",
-            "#30C",
-            "#666",
-            "#FFF"
-        ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A17",
-        "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-128gb-white-titanium/p395460900/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
-        "id": 318466327,
-        "name": "Мобільний телефон Apple iPhone 13 256GB Blue (MLQA3HU/A)",
-        "price": 32999,
-        "ram": "Немає даних",
-        "storage": "256 ГБ",
-        "colors": [
             "#33F",
             "#390",
             "#181F27",
@@ -575,32 +538,12 @@
         "display": "Екран (6.1\", OLED (Super Retina XDR)",
         "processor": "Apple A15",
         "system": "iOS 15",
-        "url": "https://rozetka.com.ua/ua/apple_iphone_13_256gb_blue/p318466327/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
-        "id": 337936078,
-        "name": "Мобільний телефон Apple iPhone 13 256GB Green (MNGL3HU/A)",
-        "price": 32999,
-        "ram": "Немає даних",
-        "storage": "256 ГБ",
-        "colors": [
-            "#33F",
-            "#390",
-            "#181F27",
-            "#F9F",
-            "#F00",
-            "#F8F3EF"
-        ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A15",
-        "system": "iOS 15",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-13-256gb-green/p337936078/",
+        "url": "https://rozetka.com.ua/ua/apple_iphone_13_128gb_product_red/p318465355/",
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
         "id": 395460648,
-        "name": "Мобільний телефон Apple iPhone 15 256GB Blue (MTP93RX/A)",
+        "name": "Apple iPhone 15 256GB Blue (MTP93RX/A)",
         "price": 41999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -619,7 +562,7 @@
     },
     {
         "id": 337936084,
-        "name": "Мобільний телефон Apple iPhone 13 128GB Green (MNGK3)",
+        "name": "Apple iPhone 13 128GB Green (MNGK3)",
         "price": 27999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -638,46 +581,64 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 395460624,
-        "name": "Мобільний телефон Apple iPhone 15 128GB Green (MTP53RX/A)",
-        "price": 36999,
+        "id": 395461026,
+        "name": "Apple iPhone 15 Pro 1TB Natural Titanium (MTVF3RX/A)",
+        "price": 68499,
         "ram": "Немає даних",
-        "storage": "128 ГБ",
+        "storage": "Немає даних",
         "colors": [
             "#000",
-            "#33F",
-            "#390",
-            "#F9F",
-            "#FF0"
+            "#30C",
+            "#666",
+            "#FFF"
         ],
         "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
+        "processor": "Apple A17",
         "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-128gb-green/p395460624/",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-1tb-natural-titanium/p395461026/",
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 395460642,
-        "name": "Мобільний телефон Apple iPhone 15 256GB Black (MTP63RX/A)",
-        "price": 41999,
+        "id": 318466327,
+        "name": "Apple iPhone 13 256GB Blue (MLQA3HU/A)",
+        "price": 32999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
         "colors": [
-            "#000",
             "#33F",
             "#390",
+            "#181F27",
             "#F9F",
-            "#FF0"
+            "#F00",
+            "#F8F3EF"
         ],
         "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
+        "processor": "Apple A15",
+        "system": "iOS 15",
+        "url": "https://rozetka.com.ua/ua/apple_iphone_13_256gb_blue/p318466327/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 395461032,
+        "name": "Apple iPhone 15 Pro 1TB Black Titanium (MTVC3RX/A)",
+        "price": 68499,
+        "ram": "Немає даних",
+        "storage": "Немає даних",
+        "colors": [
+            "#000",
+            "#30C",
+            "#666",
+            "#FFF"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A17",
         "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-256gb-black/p395460642/",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-1tb-black-titanium/p395461032/",
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
         "id": 395460939,
-        "name": "Мобільний телефон Apple iPhone 15 Pro 512GB Natural Titanium (MTV93RX/A)",
+        "name": "Apple iPhone 15 Pro 512GB Natural Titanium (MTV93RX/A)",
         "price": 58499,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -694,8 +655,28 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
+        "id": 337936078,
+        "name": "Apple iPhone 13 256GB Green (MNGL3HU/A)",
+        "price": 32999,
+        "ram": "Немає даних",
+        "storage": "256 ГБ",
+        "colors": [
+            "#33F",
+            "#390",
+            "#181F27",
+            "#F9F",
+            "#F00",
+            "#F8F3EF"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A15",
+        "system": "iOS 15",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-13-256gb-green/p337936078/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
         "id": 352490661,
-        "name": "Мобільний телефон Apple iPhone 14 256GB Midnight (MPVX3RX/A)",
+        "name": "Apple iPhone 14 256GB Midnight (MPVX3RX/A)",
         "price": 36999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -714,11 +695,67 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 395461026,
-        "name": "Мобільний телефон Apple iPhone 15 Pro 1TB Natural Titanium (MTVF3RX/A)",
-        "price": 68499,
+        "id": 395460642,
+        "name": "Apple iPhone 15 256GB Black (MTP63RX/A)",
+        "price": 41999,
         "ram": "Немає даних",
-        "storage": "Немає даних",
+        "storage": "256 ГБ",
+        "colors": [
+            "#000",
+            "#33F",
+            "#390",
+            "#F9F",
+            "#FF0"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-256gb-black/p395460642/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 395460624,
+        "name": "Apple iPhone 15 128GB Green (MTP53RX/A)",
+        "price": 36999,
+        "ram": "Немає даних",
+        "storage": "128 ГБ",
+        "colors": [
+            "#000",
+            "#33F",
+            "#390",
+            "#F9F",
+            "#FF0"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-128gb-green/p395460624/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 245162131,
+        "name": "Apple iPhone 12 64GB Black (MGJ53FS/A)",
+        "price": 20999,
+        "ram": "Немає даних",
+        "storage": "128 ГБ",
+        "colors": [
+            "#000",
+            "#390",
+            "#909",
+            "#FFF"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple_iphone_12_64gb_black/p245162131/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 395460936,
+        "name": "Apple iPhone 15 Pro 512GB Black Titanium (MTV73RX/A)",
+        "price": 58499,
+        "ram": "Немає даних",
+        "storage": "512 ГБ",
         "colors": [
             "#000",
             "#30C",
@@ -728,12 +765,30 @@
         "display": "Екран (6.1\", OLED (Super Retina XDR)",
         "processor": "Apple A17",
         "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-1tb-natural-titanium/p395461026/",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-512gb-black-titanium/p395460936/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 395460945,
+        "name": "Apple iPhone 15 Pro 512GB Blue Titanium (MTVA3RX/A)",
+        "price": 58499,
+        "ram": "Немає даних",
+        "storage": "512 ГБ",
+        "colors": [
+            "#000",
+            "#30C",
+            "#666",
+            "#FFF"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A17",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-128gb-blue-titanium/p395460945/",
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
         "id": 352486566,
-        "name": "Мобільний телефон Apple iPhone 14 128GB Midnight (MPUF3RX/A)",
+        "name": "Apple iPhone 14 128GB Midnight (MPUF3RX/A)",
         "price": 31999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -752,29 +807,11 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 395461032,
-        "name": "Мобільний телефон Apple iPhone 15 Pro 1TB Black Titanium (MTVC3RX/A)",
-        "price": 68499,
-        "ram": "Немає даних",
-        "storage": "Немає даних",
-        "colors": [
-            "#000",
-            "#30C",
-            "#666",
-            "#FFF"
-        ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A17",
-        "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-1tb-black-titanium/p395461032/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
         "id": 245162281,
-        "name": "Мобільний телефон Apple iPhone 12 128GB White (MGJC3FS/A)",
+        "name": "Apple iPhone 12 128GB White (MGJC3FS/A)",
         "price": 23999,
         "ram": "Немає даних",
-        "storage": "Немає даних",
+        "storage": "128 ГБ",
         "colors": [
             "#000",
             "#390",
@@ -782,87 +819,14 @@
             "#FFF"
         ],
         "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A17",
-        "system": "iOS 17",
+        "processor": "Apple A15",
+        "system": "iOS 16",
         "url": "https://rozetka.com.ua/ua/apple_iphone_12_128gb_white/p245162281/",
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 395460849,
-        "name": "Мобільний телефон Apple iPhone 15 Plus 256GB Blue (MU1F3RX/A)",
-        "price": 46999,
-        "ram": "Немає даних",
-        "storage": "256 ГБ",
-        "colors": [
-            "#000",
-            "#33F",
-            "#390",
-            "#F9F",
-            "#FF0"
-        ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
-        "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-plus-256gb-blue/p395460849/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
-        "id": 245162131,
-        "name": "Мобільний телефон Apple iPhone 12 64GB Black (MGJ53FS/A)",
-        "price": 20999,
-        "ram": "Немає даних",
-        "storage": "256 ГБ",
-        "colors": [
-            "#000",
-            "#390",
-            "#909",
-            "#FFF"
-        ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
-        "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple_iphone_12_64gb_black/p245162131/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
-        "id": 245162389,
-        "name": "Мобільний телефон Apple iPhone 12 64GB Purple (MJNM3FS/A)",
-        "price": 20999,
-        "ram": "Немає даних",
-        "storage": "64 ГБ",
-        "colors": [
-            "#000",
-            "#390",
-            "#909",
-            "#FFF"
-        ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A14",
-        "system": "iOS 14",
-        "url": "https://rozetka.com.ua/ua/apple_iphone_12_64gb_purple/p245162389/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
-        "id": 395460945,
-        "name": "Мобільний телефон Apple iPhone 15 Pro 512GB Blue Titanium (MTVA3RX/A)",
-        "price": 58499,
-        "ram": "Немає даних",
-        "storage": "512 ГБ",
-        "colors": [
-            "#000",
-            "#30C",
-            "#666",
-            "#FFF"
-        ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A17",
-        "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-128gb-blue-titanium/p395460945/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
         "id": 395460660,
-        "name": "Мобільний телефон Apple iPhone 15 256GB Pink (MTP73RX/A)",
+        "name": "Apple iPhone 15 256GB Pink (MTP73RX/A)",
         "price": 41999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -880,8 +844,95 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
+        "id": 245162389,
+        "name": "Apple iPhone 12 64GB Purple (MJNM3FS/A)",
+        "price": 20999,
+        "ram": "Немає даних",
+        "storage": "64 ГБ",
+        "colors": [
+            "#000",
+            "#390",
+            "#909",
+            "#FFF"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A14",
+        "system": "iOS 14",
+        "url": "https://rozetka.com.ua/ua/apple_iphone_12_64gb_purple/p245162389/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 245162197,
+        "name": "Apple iPhone 12 64GB White (MGJ63FS/A)",
+        "price": 20999,
+        "ram": "Немає даних",
+        "storage": "64 ГБ",
+        "colors": [
+            "#000",
+            "#390",
+            "#909",
+            "#FFF"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A14",
+        "system": "iOS 14",
+        "url": "https://rozetka.com.ua/ua/apple_iphone_12_64gb_white/p245162197/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 395460849,
+        "name": "Apple iPhone 15 Plus 256GB Blue (MU1F3RX/A)",
+        "price": 46999,
+        "ram": "Немає даних",
+        "storage": "256 ГБ",
+        "colors": [
+            "#000",
+            "#33F",
+            "#390",
+            "#F9F",
+            "#FF0"
+        ],
+        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-plus-256gb-blue/p395460849/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 260904506,
+        "name": "Apple iPhone 11 64GB White (MHDC3)",
+        "price": 18999,
+        "ram": "4 ГБ",
+        "storage": "64 ГБ",
+        "colors": [
+            "#000",
+            "#FFF"
+        ],
+        "display": "Екран (6.1\", IPS (Liquid Retina HD)",
+        "processor": "Apple A13",
+        "system": "iOS 13",
+        "url": "https://rozetka.com.ua/ua/apple_mhdc3/p260904506/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 260862296,
+        "name": "Apple iPhone 11 64GB Black (MHDA3)",
+        "price": 18999,
+        "ram": "4 ГБ",
+        "storage": "64 ГБ",
+        "colors": [
+            "#000",
+            "#FFF"
+        ],
+        "display": "Екран (6.1\", IPS (Liquid Retina HD)",
+        "processor": "Apple A13",
+        "system": "iOS 13",
+        "url": "https://rozetka.com.ua/ua/apple_mhda3/p260862296/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
         "id": 395460651,
-        "name": "Мобільний телефон Apple iPhone 15 256GB Green (MTPA3RX/A)",
+        "name": "Apple iPhone 15 256GB Green (MTPA3RX/A)",
         "price": 41999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -899,8 +950,118 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
+        "id": 260921081,
+        "name": "Apple iPhone 11 128GB White (MHDJ3)",
+        "price": 21999,
+        "ram": "4 ГБ",
+        "storage": "128 ГБ",
+        "colors": [
+            "#000",
+            "#FFF"
+        ],
+        "display": "Екран (6.1\", IPS (Liquid Retina HD)",
+        "processor": "Apple A13",
+        "system": "iOS 13",
+        "url": "https://rozetka.com.ua/ua/apple_mhdj3/p260921081/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 395460633,
+        "name": "Apple iPhone 15 128GB Yellow (MTP23RX/A)",
+        "price": 36999,
+        "ram": "Немає даних",
+        "storage": "128 ГБ",
+        "colors": [
+            "#000",
+            "#33F",
+            "#390",
+            "#F9F",
+            "#FF0"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-128gb-yellow/p395460633/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 245162245,
+        "name": "Apple iPhone 12 128GB Green (MGJF3FS/A)",
+        "price": 23999,
+        "ram": "Немає даних",
+        "storage": "128 ГБ",
+        "colors": [
+            "#000",
+            "#390",
+            "#909",
+            "#FFF"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple_iphone_12_128gb_green/p245162245/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 395460843,
+        "name": "Apple iPhone 15 Plus 128GB Pink (MU103RX/A)",
+        "price": 41999,
+        "ram": "Немає даних",
+        "storage": "128 ГБ",
+        "colors": [
+            "#000",
+            "#33F",
+            "#390",
+            "#F9F",
+            "#FF0"
+        ],
+        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-plus-128gb-pink/p395460843/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 352490784,
+        "name": "Apple iPhone 14 Plus 128GB Midnight (MQ4X3RX/A)",
+        "price": 36999,
+        "ram": "Немає даних",
+        "storage": "128 ГБ",
+        "colors": [
+            "#33F",
+            "#181F27",
+            "#909",
+            "#F8F3EF"
+        ],
+        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "processor": "Apple A15",
+        "system": "iOS 16",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-14-plus-128gb-midnight/p352490784/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 352486503,
+        "name": "Apple iPhone 14 128GB Blue (MPVN3RX/A)",
+        "price": 31999,
+        "ram": "Немає даних",
+        "storage": "128 ГБ",
+        "colors": [
+            "#33F",
+            "#181F27",
+            "#909",
+            "#F00",
+            "#F8F3EF",
+            "#FF0"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A15",
+        "system": "iOS 16",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-14-128gb-blue/p352486503/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
         "id": 352490655,
-        "name": "Мобільний телефон Apple iPhone 14 256GB Purple (MPWA3RX/A)",
+        "name": "Apple iPhone 14 256GB Purple (MPWA3RX/A)",
         "price": 36999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -919,165 +1080,8 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 395460936,
-        "name": "Мобільний телефон Apple iPhone 15 Pro 512GB Black Titanium (MTV73RX/A)",
-        "price": 58499,
-        "ram": "Немає даних",
-        "storage": "512 ГБ",
-        "colors": [
-            "#000",
-            "#30C",
-            "#666",
-            "#FFF"
-        ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A17",
-        "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-512gb-black-titanium/p395460936/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
-        "id": 260862296,
-        "name": "Мобільний телефон Apple iPhone 11 64GB Black (MHDA3)",
-        "price": 18999,
-        "ram": "4 ГБ",
-        "storage": "64 ГБ",
-        "colors": [
-            "#000",
-            "#FFF"
-        ],
-        "display": "Екран (6.1\", IPS (Liquid Retina HD)",
-        "processor": "Apple A13",
-        "system": "iOS 13",
-        "url": "https://rozetka.com.ua/ua/apple_mhda3/p260862296/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
-        "id": 245162197,
-        "name": "Мобільний телефон Apple iPhone 12 64GB White (MGJ63FS/A)",
-        "price": 20999,
-        "ram": "4 ГБ",
-        "storage": "64 ГБ",
-        "colors": [
-            "#000",
-            "#390",
-            "#909",
-            "#FFF"
-        ],
-        "display": "Екран (6.1\", IPS (Liquid Retina HD)",
-        "processor": "Apple A13",
-        "system": "iOS 13",
-        "url": "https://rozetka.com.ua/ua/apple_iphone_12_64gb_white/p245162197/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
-        "id": 395460633,
-        "name": "Мобільний телефон Apple iPhone 15 128GB Yellow (MTP23RX/A)",
-        "price": 36999,
-        "ram": "Немає даних",
-        "storage": "128 ГБ",
-        "colors": [
-            "#000",
-            "#33F",
-            "#390",
-            "#F9F",
-            "#FF0"
-        ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
-        "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-128gb-yellow/p395460633/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
-        "id": 260904506,
-        "name": "Мобільний телефон Apple iPhone 11 64GB White (MHDC3)",
-        "price": 18999,
-        "ram": "4 ГБ",
-        "storage": "64 ГБ",
-        "colors": [
-            "#000",
-            "#FFF"
-        ],
-        "display": "Екран (6.1\", IPS (Liquid Retina HD)",
-        "processor": "Apple A13",
-        "system": "iOS 13",
-        "url": "https://rozetka.com.ua/ua/apple_mhdc3/p260904506/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
-        "id": 352490784,
-        "name": "Мобільний телефон Apple iPhone 14 Plus 128GB Midnight (MQ4X3RX/A)",
-        "price": 36999,
-        "ram": "Немає даних",
-        "storage": "128 ГБ",
-        "colors": [
-            "#33F",
-            "#181F27",
-            "#909",
-            "#F8F3EF"
-        ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
-        "processor": "Apple A15",
-        "system": "iOS 16",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-14-plus-128gb-midnight/p352490784/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
-        "id": 245162245,
-        "name": "Мобільний телефон Apple iPhone 12 128GB Green (MGJF3FS/A)",
-        "price": 23999,
-        "ram": "Немає даних",
-        "storage": "128 ГБ",
-        "colors": [
-            "#000",
-            "#390",
-            "#909",
-            "#FFF"
-        ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
-        "processor": "Apple A15",
-        "system": "iOS 16",
-        "url": "https://rozetka.com.ua/ua/apple_iphone_12_128gb_green/p245162245/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
-        "id": 352490796,
-        "name": "Мобільний телефон Apple iPhone 14 Plus 128GB Starlight (MQ4Y3RX/A)",
-        "price": 36999,
-        "ram": "Немає даних",
-        "storage": "128 ГБ",
-        "colors": [
-            "#33F",
-            "#181F27",
-            "#909",
-            "#F8F3EF"
-        ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
-        "processor": "Apple A15",
-        "system": "iOS 16",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-14-plus-128gb-starlight/p352490796/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
-        "id": 260921081,
-        "name": "Мобільний телефон Apple iPhone 11 128GB White (MHDJ3)",
-        "price": 21999,
-        "ram": "4 ГБ",
-        "storage": "128 ГБ",
-        "colors": [
-            "#000",
-            "#FFF"
-        ],
-        "display": "Екран (6.1\", IPS (Liquid Retina HD)",
-        "processor": "Apple A13",
-        "system": "iOS 13",
-        "url": "https://rozetka.com.ua/ua/apple_mhdj3/p260921081/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
         "id": 370038792,
-        "name": "Мобільний телефон Apple iPhone 14 128GB Yellow (MR3X3RX/A)",
+        "name": "Apple iPhone 14 128GB Yellow (MR3X3RX/A)",
         "price": 31999,
         "ram": "Немає даних",
         "storage": "Немає даних",
@@ -1096,8 +1100,45 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
+        "id": 352490796,
+        "name": "Apple iPhone 14 Plus 128GB Starlight (MQ4Y3RX/A)",
+        "price": 36999,
+        "ram": "Немає даних",
+        "storage": "128 ГБ",
+        "colors": [
+            "#33F",
+            "#181F27",
+            "#909",
+            "#F8F3EF"
+        ],
+        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "processor": "Apple A15",
+        "system": "iOS 16",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-14-plus-128gb-starlight/p352490796/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 395460846,
+        "name": "Apple iPhone 15 Plus 256GB Black (MU183RX/A)",
+        "price": 46999,
+        "ram": "Немає даних",
+        "storage": "256 ГБ",
+        "colors": [
+            "#000",
+            "#33F",
+            "#390",
+            "#F9F",
+            "#FF0"
+        ],
+        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-plus-256gb-black/p395460846/",
+        "image_url": "https://content1.rozetka.com.ua/goods/images/big_tile/364621766.jpg"
+    },
+    {
         "id": 352490643,
-        "name": "Мобільний телефон Apple iPhone 14 256GB Blue (MPWP3RX/A)",
+        "name": "Apple iPhone 14 256GB Blue (MPWP3RX/A)",
         "price": 36999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -1113,89 +1154,11 @@
         "processor": "Apple A15",
         "system": "iOS 16",
         "url": "https://rozetka.com.ua/ua/apple-iphone-14-256gb-blue/p352490643/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
-        "id": 352490673,
-        "name": "Мобільний телефон Apple iPhone 14 256GB Starlight (MPW43RX/A)",
-        "price": 36999,
-        "ram": "Немає даних",
-        "storage": "256 ГБ",
-        "colors": [
-            "#33F",
-            "#181F27",
-            "#909",
-            "#F00",
-            "#F8F3EF",
-            "#FF0"
-        ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A15",
-        "system": "iOS 16",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-14-256gb-starlight/p352490673/",
-        "image_url": "https://content.rozetka.com.ua/goods/images/big_tile/284913545.jpg"
-    },
-    {
-        "id": 352486503,
-        "name": "Мобільний телефон Apple iPhone 14 128GB Blue (MPVN3RX/A)",
-        "price": 31999,
-        "ram": "Немає даних",
-        "storage": "128 ГБ",
-        "colors": [
-            "#33F",
-            "#181F27",
-            "#909",
-            "#F00",
-            "#F8F3EF",
-            "#FF0"
-        ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A15",
-        "system": "iOS 16",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-14-128gb-blue/p352486503/",
-        "image_url": "https://content.rozetka.com.ua/goods/images/big_tile/284957985.jpg"
-    },
-    {
-        "id": 395460864,
-        "name": "Мобільний телефон Apple iPhone 15 Plus 256GB Pink (MU193RX/A)",
-        "price": 46999,
-        "ram": "Немає даних",
-        "storage": "256 ГБ",
-        "colors": [
-            "#000",
-            "#33F",
-            "#390",
-            "#F9F",
-            "#FF0"
-        ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
-        "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-plus-256gb-pink/p395460864/",
-        "image_url": "https://content.rozetka.com.ua/goods/images/big_tile/364621605.jpg"
-    },
-    {
-        "id": 395460843,
-        "name": "Мобільний телефон Apple iPhone 15 Plus 128GB Pink (MU103RX/A)",
-        "price": 41999,
-        "ram": "Немає даних",
-        "storage": "128 ГБ",
-        "colors": [
-            "#000",
-            "#33F",
-            "#390",
-            "#F9F",
-            "#FF0"
-        ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
-        "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-plus-128gb-pink/p395460843/",
-        "image_url": "https://content1.rozetka.com.ua/goods/images/big_tile/364621788.jpg"
+        "image_url": "https://content2.rozetka.com.ua/goods/images/big_tile/284913543.jpg"
     },
     {
         "id": 352490631,
-        "name": "Мобільний телефон Apple iPhone 14 128GB PRODUCT Red (MPVA3RX/A)",
+        "name": "Apple iPhone 14 128GB PRODUCT Red (MPVA3RX/A)",
         "price": 31999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -1215,7 +1178,7 @@
     },
     {
         "id": 352490697,
-        "name": "Мобільний телефон Apple iPhone 14 256GB PRODUCT Red (MPWH3RX/A)",
+        "name": "Apple iPhone 14 256GB PRODUCT Red (MPWH3RX/A)",
         "price": 36999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -1234,27 +1197,8 @@
         "image_url": "https://content1.rozetka.com.ua/goods/images/big_tile/284913546.jpg"
     },
     {
-        "id": 395460846,
-        "name": "Мобільний телефон Apple iPhone 15 Plus 256GB Black (MU183RX/A)",
-        "price": 46999,
-        "ram": "Немає даних",
-        "storage": "256 ГБ",
-        "colors": [
-            "#000",
-            "#33F",
-            "#390",
-            "#F9F",
-            "#FF0"
-        ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
-        "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-plus-256gb-black/p395460846/",
-        "image_url": "https://content1.rozetka.com.ua/goods/images/big_tile/364621766.jpg"
-    },
-    {
         "id": 352490724,
-        "name": "Мобільний телефон Apple iPhone 14 Plus 128GB Blue (MQ523RX/A)",
+        "name": "Apple iPhone 14 Plus 128GB Blue (MQ523RX/A)",
         "price": 36999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -1271,8 +1215,47 @@
         "image_url": "https://content1.rozetka.com.ua/goods/images/big_tile/284984501.jpg"
     },
     {
+        "id": 395460864,
+        "name": "Apple iPhone 15 Plus 256GB Pink (MU193RX/A)",
+        "price": 46999,
+        "ram": "Немає даних",
+        "storage": "256 ГБ",
+        "colors": [
+            "#000",
+            "#33F",
+            "#390",
+            "#F9F",
+            "#FF0"
+        ],
+        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-plus-256gb-pink/p395460864/",
+        "image_url": "https://content.rozetka.com.ua/goods/images/big_tile/364621605.jpg"
+    },
+    {
+        "id": 352490673,
+        "name": "Apple iPhone 14 256GB Starlight (MPW43RX/A)",
+        "price": 36999,
+        "ram": "Немає даних",
+        "storage": "256 ГБ",
+        "colors": [
+            "#33F",
+            "#181F27",
+            "#909",
+            "#F00",
+            "#F8F3EF",
+            "#FF0"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A15",
+        "system": "iOS 16",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-14-256gb-starlight/p352490673/",
+        "image_url": "https://content.rozetka.com.ua/goods/images/big_tile/284913545.jpg"
+    },
+    {
         "id": 395460804,
-        "name": "Мобільний телефон Apple iPhone 15 Plus 128GB Blue (MU163RX/A)",
+        "name": "Apple iPhone 15 Plus 128GB Blue (MU163RX/A)",
         "price": 41999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -1291,7 +1274,7 @@
     },
     {
         "id": 395460855,
-        "name": "Мобільний телефон Apple iPhone 15 Plus 256GB Green (MU1G3RX/A)",
+        "name": "Apple iPhone 15 Plus 256GB Green (MU1G3RX/A)",
         "price": 46999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -1310,7 +1293,7 @@
     },
     {
         "id": 352486560,
-        "name": "Мобільний телефон Apple iPhone 14 128GB Purple (MPV03RX/A)",
+        "name": "Apple iPhone 14 128GB Purple (MPV03RX/A)",
         "price": 31999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -1326,49 +1309,11 @@
         "processor": "Apple A15",
         "system": "iOS 16",
         "url": "https://rozetka.com.ua/ua/apple-iphone-14-128gb-purple/p352486560/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
-        "id": 395460840,
-        "name": "Мобільний телефон Apple iPhone 15 Plus 128GB Yellow (MU123RX/A)",
-        "price": 41999,
-        "ram": "Немає даних",
-        "storage": "128 ГБ",
-        "colors": [
-            "#000",
-            "#33F",
-            "#390",
-            "#F9F",
-            "#FF0"
-        ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
-        "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-plus-128gb-yellow/p395460840/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
-        "id": 395460837,
-        "name": "Мобільний телефон Apple iPhone 15 Plus 128GB Green (MU173RX/A)",
-        "price": 41999,
-        "ram": "Немає даних",
-        "storage": "128 ГБ",
-        "colors": [
-            "#000",
-            "#33F",
-            "#390",
-            "#F9F",
-            "#FF0"
-        ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
-        "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-plus-128gb-green/p395460837/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+        "image_url": "https://content1.rozetka.com.ua/goods/images/big_tile/284913534.jpg"
     },
     {
         "id": 395460861,
-        "name": "Мобільний телефон Apple iPhone 15 Plus 256GB Yellow (MU1D3RX/A)",
+        "name": "Apple iPhone 15 Plus 256GB Yellow (MU1D3RX/A)",
         "price": 46999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -1386,26 +1331,64 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 395460552,
-        "name": "Мобільний телефон Apple iPhone 15 Pro 128GB Black Titanium (MTUV3RX/A)",
-        "price": 43499,
+        "id": 395460837,
+        "name": "Apple iPhone 15 Plus 128GB Green (MU173RX/A)",
+        "price": 41999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
         "colors": [
             "#000",
-            "#30C",
-            "#666",
-            "#FFF"
+            "#33F",
+            "#390",
+            "#F9F",
+            "#FF0"
         ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A17",
+        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
         "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-128gb-black-titanium/p395460552/",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-plus-128gb-green/p395460837/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 395460840,
+        "name": "Apple iPhone 15 Plus 128GB Yellow (MU123RX/A)",
+        "price": 41999,
+        "ram": "Немає даних",
+        "storage": "128 ГБ",
+        "colors": [
+            "#000",
+            "#33F",
+            "#390",
+            "#F9F",
+            "#FF0"
+        ],
+        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-plus-128gb-yellow/p395460840/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 352490739,
+        "name": "Apple iPhone 14 Plus 512GB Blue (MQ5G3RX/A)",
+        "price": 43000,
+        "ram": "Немає даних",
+        "storage": "512 ГБ",
+        "colors": [
+            "#33F",
+            "#181F27",
+            "#909",
+            "#F8F3EF"
+        ],
+        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "processor": "Apple A15",
+        "system": "iOS 16",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-14-plus-512gb-blue/p352490739/",
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
         "id": 395460906,
-        "name": "Мобільний телефон Apple iPhone 15 Pro 128GB Blue Titanium (MTV03RX/A)",
+        "name": "Apple iPhone 15 Pro 128GB Blue Titanium (MTV03RX/A)",
         "price": 43499,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -1422,8 +1405,44 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
+        "id": 395461107,
+        "name": "Apple iPhone 15 Pro Max 512GB Black Titanium (MU7C3RX/A)",
+        "price": 61999,
+        "ram": "Немає даних",
+        "storage": "512 ГБ",
+        "colors": [
+            "#000",
+            "#33F",
+            "#666",
+            "#FFF"
+        ],
+        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "processor": "Apple A17",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-max-512gb-black-titanium/p395461107/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 395460552,
+        "name": "Apple iPhone 15 Pro 128GB Black Titanium (MTUV3RX/A)",
+        "price": 43499,
+        "ram": "Немає даних",
+        "storage": "128 ГБ",
+        "colors": [
+            "#000",
+            "#30C",
+            "#666",
+            "#FFF"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A17",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-128gb-black-titanium/p395460552/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
         "id": 395460918,
-        "name": "Мобільний телефон Apple iPhone 15 Pro 256GB White Titanium (MTV43RX/A)",
+        "name": "Apple iPhone 15 Pro 256GB White Titanium (MTV43RX/A)",
         "price": 48499,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -1441,7 +1460,7 @@
     },
     {
         "id": 395461131,
-        "name": "Мобільний телефон Apple iPhone 15 Pro Max 1TB Blue Titanium (MU7K3RX/A)",
+        "name": "Apple iPhone 15 Pro Max 1TB Blue Titanium (MU7K3RX/A)",
         "price": 71999,
         "ram": "Немає даних",
         "storage": "Немає даних",
@@ -1459,7 +1478,7 @@
     },
     {
         "id": 395461125,
-        "name": "Мобільний телефон Apple iPhone 15 Pro Max 1TB Black Titanium (MU7G3RX/A)",
+        "name": "Apple iPhone 15 Pro Max 1TB Black Titanium (MU7G3RX/A)",
         "price": 71999,
         "ram": "Немає даних",
         "storage": "Немає даних",
@@ -1477,7 +1496,7 @@
     },
     {
         "id": 395460669,
-        "name": "Мобільний телефон Apple iPhone 15 512GB Blue (MTPG3RX/A)",
+        "name": "Apple iPhone 15 512GB Blue (MTPG3RX/A)",
         "price": 51999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -1496,7 +1515,7 @@
     },
     {
         "id": 395460663,
-        "name": "Мобільний телефон Apple iPhone 15 512GB Black (MTPC3RX/A)",
+        "name": "Apple iPhone 15 512GB Black (MTPC3RX/A)",
         "price": 51999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -1515,7 +1534,7 @@
     },
     {
         "id": 352490802,
-        "name": "Мобільний телефон Apple iPhone 14 Pro Max 128GB Silver (MQ9Q3RX/A)",
+        "name": "Apple iPhone 14 Pro Max 128GB Silver (MQ9Q3RX/A)",
         "price": 49999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -1530,7 +1549,7 @@
     },
     {
         "id": 352490748,
-        "name": "Мобільний телефон Apple iPhone 14 Pro 512GB Gold (MQ233RX/A)",
+        "name": "Apple iPhone 14 Pro 512GB Gold (MQ233RX/A)",
         "price": 54999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -1545,7 +1564,7 @@
     },
     {
         "id": 352490742,
-        "name": "Мобільний телефон Apple iPhone 14 Pro 512GB Space Black (MQ1M3RX/A)",
+        "name": "Apple iPhone 14 Pro 512GB Space Black (MQ1M3RX/A)",
         "price": 54999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -1560,7 +1579,7 @@
     },
     {
         "id": 245162167,
-        "name": "Мобільний телефон Apple iPhone 12 64GB Blue (MGJ83FS/A)",
+        "name": "Apple iPhone 12 64GB Blue (MGJ83FS/A)",
         "price": 20999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -1579,7 +1598,7 @@
     },
     {
         "id": 352490853,
-        "name": "Мобільний телефон Apple iPhone 14 Pro Max 512GB Silver (MQAH3RX/A)",
+        "name": "Apple iPhone 14 Pro Max 512GB Silver (MQAH3RX/A)",
         "price": 59999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -1594,7 +1613,7 @@
     },
     {
         "id": 318463279,
-        "name": "Мобільний телефон Apple iPhone 13 mini 128GB Pink (MLK23HU/A)",
+        "name": "Apple iPhone 13 mini 128GB Pink (MLK23HU/A)",
         "price": 28999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -1609,7 +1628,7 @@
     },
     {
         "id": 352490763,
-        "name": "Мобільний телефон Apple iPhone 14 Plus 256GB Purple (MQ563RX/A)",
+        "name": "Apple iPhone 14 Plus 256GB Purple (MQ563RX/A)",
         "price": 41999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -1627,7 +1646,7 @@
     },
     {
         "id": 395461134,
-        "name": "Мобільний телефон Apple iPhone 15 Pro Max 1TB Natural Titanium (MU7J3RX/A)",
+        "name": "Apple iPhone 15 Pro Max 1TB Natural Titanium (MU7J3RX/A)",
         "price": 71999,
         "ram": "Немає даних",
         "storage": "Немає даних",
@@ -1645,7 +1664,7 @@
     },
     {
         "id": 318463408,
-        "name": "Мобільний телефон Apple iPhone 13 mini 256GB Blue (MLK93HU/A)",
+        "name": "Apple iPhone 13 mini 256GB Blue (MLK93HU/A)",
         "price": 33999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -1659,8 +1678,26 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
+        "id": 395461023,
+        "name": "Apple iPhone 15 Pro 1TB Blue Titanium (MTVG3RX/A)",
+        "price": 68499,
+        "ram": "Немає даних",
+        "storage": "Немає даних",
+        "colors": [
+            "#000",
+            "#30C",
+            "#666",
+            "#FFF"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A17",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-1tb-blue-titanium/p395461023/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
         "id": 395461128,
-        "name": "Мобільний телефон Apple iPhone 15 Pro Max 1TB White Titanium (MU7H3RX/A)",
+        "name": "Apple iPhone 15 Pro Max 1TB White Titanium (MU7H3RX/A)",
         "price": 71999,
         "ram": "Немає даних",
         "storage": "Немає даних",
@@ -1678,7 +1715,7 @@
     },
     {
         "id": 352490736,
-        "name": "Мобільний телефон Apple iPhone 14 Plus 256GB Blue (MQ583RX/A)",
+        "name": "Apple iPhone 14 Plus 256GB Blue (MQ583RX/A)",
         "price": 41999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -1695,26 +1732,8 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 395461023,
-        "name": "Мобільний телефон Apple iPhone 15 Pro 1TB Blue Titanium (MTVG3RX/A)",
-        "price": 68499,
-        "ram": "Немає даних",
-        "storage": "Немає даних",
-        "colors": [
-            "#000",
-            "#30C",
-            "#666",
-            "#FFF"
-        ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A17",
-        "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-1tb-blue-titanium/p395461023/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
         "id": 318463069,
-        "name": "Мобільний телефон Apple iPhone 13 mini 128GB (PRODUCT) Red (MLK33HU/A)",
+        "name": "Apple iPhone 13 mini 128GB (PRODUCT) Red (MLK33HU/A)",
         "price": 28999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -1729,7 +1748,7 @@
     },
     {
         "id": 318463306,
-        "name": "Мобільний телефон Apple iPhone 13 mini 256GB (PRODUCT) Red (MLK83HU/A)",
+        "name": "Apple iPhone 13 mini 256GB (PRODUCT) Red (MLK83HU/A)",
         "price": 33999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -1744,7 +1763,7 @@
     },
     {
         "id": 352490826,
-        "name": "Мобільний телефон Apple iPhone 14 Plus 256GB PRODUCT Red (MQ573RX/A)",
+        "name": "Apple iPhone 14 Plus 256GB PRODUCT Red (MQ573RX/A)",
         "price": 41999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -1762,8 +1781,26 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
+        "id": 395461029,
+        "name": "Apple iPhone 15 Pro 1TB White Titanium (MTVD3RX/A)",
+        "price": 68499,
+        "ram": "Немає даних",
+        "storage": "Немає даних",
+        "colors": [
+            "#000",
+            "#30C",
+            "#666",
+            "#FFF"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A17",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-1tb-white-titanium/p395461029/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
         "id": 318466336,
-        "name": "Мобільний телефон Apple iPhone 13 256GB (PRODUCT) Red (MLQ93HU/A)",
+        "name": "Apple iPhone 13 256GB (PRODUCT) Red (MLQ93HU/A)",
         "price": 32999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -1782,26 +1819,8 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 395461029,
-        "name": "Мобільний телефон Apple iPhone 15 Pro 1TB White Titanium (MTVD3RX/A)",
-        "price": 68499,
-        "ram": "Немає даних",
-        "storage": "Немає даних",
-        "colors": [
-            "#000",
-            "#30C",
-            "#666",
-            "#FFF"
-        ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A17",
-        "system": "iOS 17",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-15-pro-1tb-white-titanium/p395461029/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
         "id": 395460942,
-        "name": "Мобільний телефон Apple iPhone 15 Pro 512GB White Titanium (MTV83RX/A)",
+        "name": "Apple iPhone 15 Pro 512GB White Titanium (MTV83RX/A)",
         "price": 58499,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -1819,7 +1838,7 @@
     },
     {
         "id": 352490823,
-        "name": "Мобільний телефон Apple iPhone 14 Plus 128GB PRODUCT Red (MQ513RX/A)",
+        "name": "Apple iPhone 14 Plus 128GB PRODUCT Red (MQ513RX/A)",
         "price": 36999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -1838,7 +1857,7 @@
     },
     {
         "id": 395460690,
-        "name": "Мобільний телефон Apple iPhone 15 512GB Pink (MTPD3RX/A)",
+        "name": "Apple iPhone 15 512GB Pink (MTPD3RX/A)",
         "price": 51999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -1857,7 +1876,7 @@
     },
     {
         "id": 395460654,
-        "name": "Мобільний телефон Apple iPhone 15 256GB Yellow (MTP83RX/A)",
+        "name": "Apple iPhone 15 256GB Yellow (MTP83RX/A)",
         "price": 41999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -1876,7 +1895,7 @@
     },
     {
         "id": 395460672,
-        "name": "Мобільний телефон Apple iPhone 15 512GB Green (MTPH3RX/A)",
+        "name": "Apple iPhone 15 512GB Green (MTPH3RX/A)",
         "price": 51999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -1895,7 +1914,7 @@
     },
     {
         "id": 395460675,
-        "name": "Мобільний телефон Apple iPhone 15 512GB Yellow (MTPF3RX/A)",
+        "name": "Apple iPhone 15 512GB Yellow (MTPF3RX/A)",
         "price": 51999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -1913,8 +1932,27 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
+        "id": 245162269,
+        "name": "Apple iPhone 12 128GB Blue (MGJE3FS/A)",
+        "price": 23999,
+        "ram": "Немає даних",
+        "storage": "512 ГБ",
+        "colors": [
+            "#000",
+            "#33F",
+            "#390",
+            "#909",
+            "#FFF"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 17",
+        "url": "https://rozetka.com.ua/ua/apple_iphone_12_128gb_blue/p245162269/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
         "id": 352490841,
-        "name": "Мобільний телефон Apple iPhone 14 Pro Max 256GB Deep Purple (MQ9X3RX/A)",
+        "name": "Apple iPhone 14 Pro Max 256GB Deep Purple (MQ9X3RX/A)",
         "price": 55999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -1928,27 +1966,8 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 245162269,
-        "name": "Мобільний телефон Apple iPhone 12 128GB Blue (MGJE3FS/A)",
-        "price": 23999,
-        "ram": "Немає даних",
-        "storage": "256 ГБ",
-        "colors": [
-            "#000",
-            "#33F",
-            "#390",
-            "#909",
-            "#FFF"
-        ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
-        "system": "iOS 16",
-        "url": "https://rozetka.com.ua/ua/apple_iphone_12_128gb_blue/p245162269/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
         "id": 352490805,
-        "name": "Мобільний телефон Apple iPhone 14 Pro Max 128GB Deep Purple (MQ9T3RX/A)",
+        "name": "Apple iPhone 14 Pro Max 128GB Deep Purple (MQ9T3RX/A)",
         "price": 49999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -1963,7 +1982,7 @@
     },
     {
         "id": 245162155,
-        "name": "Мобільний телефон Apple iPhone 12 64GB Green (MGJ93FS/A)",
+        "name": "Apple iPhone 12 64GB Green (MGJ93FS/A)",
         "price": 20999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -1980,23 +1999,8 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 352490844,
-        "name": "Мобільний телефон Apple iPhone 14 Pro Max 256GB Space Black (MQ9U3RX/A)",
-        "price": 55999,
-        "ram": "Немає даних",
-        "storage": "256 ГБ",
-        "colors": [
-            "#000"
-        ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
-        "system": "iOS 16",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-max-256gb-space-black/p352490844/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
         "id": 352490721,
-        "name": "Мобільний телефон Apple iPhone 14 Pro 256GB Deep Purple (MQ1F3RX/A)",
+        "name": "Apple iPhone 14 Pro 256GB Deep Purple (MQ1F3RX/A)",
         "price": 49999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -2010,8 +2014,38 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
+        "id": 352490844,
+        "name": "Apple iPhone 14 Pro Max 256GB Space Black (MQ9U3RX/A)",
+        "price": 55999,
+        "ram": "Немає даних",
+        "storage": "256 ГБ",
+        "colors": [
+            "#000"
+        ],
+        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 16",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-max-256gb-space-black/p352490844/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 352490835,
+        "name": "Apple iPhone 14 Pro Max 256GB Silver (MQ9V3RX/A)",
+        "price": 55999,
+        "ram": "Немає даних",
+        "storage": "256 ГБ",
+        "colors": [
+            "#CCC"
+        ],
+        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 16",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-max-256gb-silver/p352490835/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
         "id": 370038888,
-        "name": "Мобільний телефон Apple iPhone 14 256GB Yellow (MR3Y3RX/A)",
+        "name": "Apple iPhone 14 256GB Yellow (MR3Y3RX/A)",
         "price": 36999,
         "ram": "Немає даних",
         "storage": "Немає даних",
@@ -2030,23 +2064,8 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 352490835,
-        "name": "Мобільний телефон Apple iPhone 14 Pro Max 256GB Silver (MQ9V3RX/A)",
-        "price": 55999,
-        "ram": "Немає даних",
-        "storage": "256 ГБ",
-        "colors": [
-            "#CCC"
-        ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
-        "system": "iOS 16",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-max-256gb-silver/p352490835/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
         "id": 352486536,
-        "name": "Мобільний телефон Apple iPhone 14 Pro 128GB Space Black (MPXV3RX/A)",
+        "name": "Apple iPhone 14 Pro 128GB Space Black (MPXV3RX/A)",
         "price": 47499,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -2060,23 +2079,8 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 352490838,
-        "name": "Мобільний телефон Apple iPhone 14 Pro Max 256GB Gold (MQ9W3RX/A)",
-        "price": 55999,
-        "ram": "Немає даних",
-        "storage": "256 ГБ",
-        "colors": [
-            "#FFD700"
-        ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
-        "system": "iOS 16",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-max-256gb-gold/p352490838/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
         "id": 352490922,
-        "name": "Мобільний телефон Apple iPhone 14 Pro Max 512GB Deep Purple (MQAM3RX/A)",
+        "name": "Apple iPhone 14 Pro Max 512GB Deep Purple (MQAM3RX/A)",
         "price": 59999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -2090,8 +2094,23 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
+        "id": 352490838,
+        "name": "Apple iPhone 14 Pro Max 256GB Gold (MQ9W3RX/A)",
+        "price": 55999,
+        "ram": "Немає даних",
+        "storage": "256 ГБ",
+        "colors": [
+            "#FFD700"
+        ],
+        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 16",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-max-256gb-gold/p352490838/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
         "id": 352490799,
-        "name": "Мобільний телефон Apple iPhone 14 Pro Max 128GB Space Black (MQ9P3RX/A)",
+        "name": "Apple iPhone 14 Pro Max 128GB Space Black (MQ9P3RX/A)",
         "price": 49999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -2106,7 +2125,7 @@
     },
     {
         "id": 352490712,
-        "name": "Мобільний телефон Apple iPhone 14 Pro 256GB Space Black (MQ0T3RX/A)",
+        "name": "Apple iPhone 14 Pro 256GB Space Black (MQ0T3RX/A)",
         "price": 49999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -2121,7 +2140,7 @@
     },
     {
         "id": 352490913,
-        "name": "Мобільний телефон Apple iPhone 14 Pro Max 512GB Space Black (MQAF3RX/A)",
+        "name": "Apple iPhone 14 Pro Max 512GB Space Black (MQAF3RX/A)",
         "price": 59999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -2135,38 +2154,8 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 352490808,
-        "name": "Мобільний телефон Apple iPhone 14 Pro Max 128GB Gold (MQ9R3RX/A)",
-        "price": 49999,
-        "ram": "Немає даних",
-        "storage": "128 ГБ",
-        "colors": [
-            "#FFD700"
-        ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
-        "system": "iOS 16",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-max-128gb-gold/p352490808/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
-        "id": 352490700,
-        "name": "Мобільний телефон Apple iPhone 14 Pro 128GB Gold (MQ083RX/A)",
-        "price": 47499,
-        "ram": "Немає даних",
-        "storage": "128 ГБ",
-        "colors": [
-            "#FFD700"
-        ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
-        "system": "iOS 16",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-128gb-gold/p352490700/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
         "id": 352490718,
-        "name": "Мобільний телефон Apple iPhone 14 Pro 256GB Gold (MQ183RX/A)",
+        "name": "Apple iPhone 14 Pro 256GB Gold (MQ183RX/A)",
         "price": 49999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -2177,26 +2166,56 @@
         "processor": "Apple A16",
         "system": "iOS 16",
         "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-256gb-gold/p352490718/",
-        "image_url": "https://content1.rozetka.com.ua/goods/images/big_tile/284920772.jpg"
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 352490706,
-        "name": "Мобільний телефон Apple iPhone 14 Pro 128GB Deep Purple (MQ0G3RX/A)",
+        "id": 352490808,
+        "name": "Apple iPhone 14 Pro Max 128GB Gold (MQ9R3RX/A)",
+        "price": 49999,
+        "ram": "Немає даних",
+        "storage": "128 ГБ",
+        "colors": [
+            "#FFD700"
+        ],
+        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 16",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-max-128gb-gold/p352490808/",
+        "image_url": "https://content2.rozetka.com.ua/goods/images/big_tile/284920883.jpg"
+    },
+    {
+        "id": 352490889,
+        "name": "Apple iPhone 14 Pro Max 512GB Gold (MQAJ3RX/A)",
+        "price": 59999,
+        "ram": "Немає даних",
+        "storage": "512 ГБ",
+        "colors": [
+            "#FFD700"
+        ],
+        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 16",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-max-512gb-gold/p352490889/",
+        "image_url": "https://content.rozetka.com.ua/goods/images/big_tile/284924180.jpg"
+    },
+    {
+        "id": 352490700,
+        "name": "Apple iPhone 14 Pro 128GB Gold (MQ083RX/A)",
         "price": 47499,
         "ram": "Немає даних",
         "storage": "128 ГБ",
         "colors": [
-            "#909"
+            "#FFD700"
         ],
         "display": "Екран (6.1\", OLED (Super Retina XDR)",
         "processor": "Apple A16",
         "system": "iOS 16",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-128gb-deep-purple/p352490706/",
-        "image_url": "https://content.rozetka.com.ua/goods/images/big_tile/284920764.jpg"
+        "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-128gb-gold/p352490700/",
+        "image_url": "https://content1.rozetka.com.ua/goods/images/big_tile/284920757.jpg"
     },
     {
         "id": 395460888,
-        "name": "Мобільний телефон Apple iPhone 15 Plus 512GB Pink (MU1J3RX/A)",
+        "name": "Apple iPhone 15 Plus 512GB Pink (MU1J3RX/A)",
         "price": 56999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -2214,8 +2233,23 @@
         "image_url": "https://content.rozetka.com.ua/goods/images/big_tile/364621174.jpg"
     },
     {
+        "id": 352490706,
+        "name": "Apple iPhone 14 Pro 128GB Deep Purple (MQ0G3RX/A)",
+        "price": 47499,
+        "ram": "Немає даних",
+        "storage": "128 ГБ",
+        "colors": [
+            "#909"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 16",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-128gb-deep-purple/p352490706/",
+        "image_url": "https://content.rozetka.com.ua/goods/images/big_tile/284920764.jpg"
+    },
+    {
         "id": 395460882,
-        "name": "Мобільний телефон Apple iPhone 15 Plus 512GB Green (MU1Q3RX/A)",
+        "name": "Apple iPhone 15 Plus 512GB Green (MU1Q3RX/A)",
         "price": 56999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -2233,38 +2267,8 @@
         "image_url": "https://content1.rozetka.com.ua/goods/images/big_tile/364621510.jpg"
     },
     {
-        "id": 352490889,
-        "name": "Мобільний телефон Apple iPhone 14 Pro Max 512GB Gold (MQAJ3RX/A)",
-        "price": 59999,
-        "ram": "Немає даних",
-        "storage": "512 ГБ",
-        "colors": [
-            "#FFD700"
-        ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
-        "system": "iOS 16",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-max-512gb-gold/p352490889/",
-        "image_url": "https://content.rozetka.com.ua/goods/images/big_tile/284924180.jpg"
-    },
-    {
-        "id": 352490694,
-        "name": "Мобільний телефон Apple iPhone 14 Pro 128GB Silver (MQ023RX/A)",
-        "price": 47499,
-        "ram": "Немає даних",
-        "storage": "128 ГБ",
-        "colors": [
-            "#CCC"
-        ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
-        "system": "iOS 16",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-128gb-silver/p352490694/",
-        "image_url": "https://content2.rozetka.com.ua/goods/images/big_tile/284920759.jpg"
-    },
-    {
         "id": 395460870,
-        "name": "Мобільний телефон Apple iPhone 15 Plus 512GB Black (MU1H3RX/A)",
+        "name": "Apple iPhone 15 Plus 512GB Black (MU1H3RX/A)",
         "price": 56999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -2282,23 +2286,8 @@
         "image_url": "https://content1.rozetka.com.ua/goods/images/big_tile/364621590.jpg"
     },
     {
-        "id": 352490751,
-        "name": "Мобільний телефон Apple iPhone 14 Pro 512GB Deep Purple (MQ293RX/A)",
-        "price": 54999,
-        "ram": "Немає даних",
-        "storage": "512 ГБ",
-        "colors": [
-            "#909"
-        ],
-        "display": "Екран (6.1\", OLED (Super Retina XDR)",
-        "processor": "Apple A16",
-        "system": "iOS 16",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-512gb-deep-purple/p352490751/",
-        "image_url": "https://content2.rozetka.com.ua/goods/images/big_tile/284920812.jpg"
-    },
-    {
         "id": 352490715,
-        "name": "Мобільний телефон Apple iPhone 14 Pro 256GB Silver (MQ103RX/A)",
+        "name": "Apple iPhone 14 Pro 256GB Silver (MQ103RX/A)",
         "price": 49999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -2312,8 +2301,38 @@
         "image_url": "https://content2.rozetka.com.ua/goods/images/big_tile/284920770.jpg"
     },
     {
+        "id": 352490694,
+        "name": "Apple iPhone 14 Pro 128GB Silver (MQ023RX/A)",
+        "price": 47499,
+        "ram": "Немає даних",
+        "storage": "128 ГБ",
+        "colors": [
+            "#CCC"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 16",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-128gb-silver/p352490694/",
+        "image_url": "https://content2.rozetka.com.ua/goods/images/big_tile/284920759.jpg"
+    },
+    {
+        "id": 352490751,
+        "name": "Apple iPhone 14 Pro 512GB Deep Purple (MQ293RX/A)",
+        "price": 54999,
+        "ram": "Немає даних",
+        "storage": "512 ГБ",
+        "colors": [
+            "#909"
+        ],
+        "display": "Екран (6.1\", OLED (Super Retina XDR)",
+        "processor": "Apple A16",
+        "system": "iOS 16",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-14-pro-512gb-deep-purple/p352490751/",
+        "image_url": "https://content2.rozetka.com.ua/goods/images/big_tile/284920812.jpg"
+    },
+    {
         "id": 395460885,
-        "name": "Мобільний телефон Apple iPhone 15 Plus 512GB Yellow (MU1M3RX/A)",
+        "name": "Apple iPhone 15 Plus 512GB Yellow (MU1M3RX/A)",
         "price": 56999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -2328,11 +2347,11 @@
         "processor": "Apple A16",
         "system": "iOS 17",
         "url": "https://rozetka.com.ua/ua/apple-iphone-15-plus-512gb-yellow/p395460885/",
-        "image_url": "https://content1.rozetka.com.ua/goods/images/big_tile/364621486.jpg"
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
         "id": 395460876,
-        "name": "Мобільний телефон Apple iPhone 15 Plus 512GB Blue (MU1P3RX/A)",
+        "name": "Apple iPhone 15 Plus 512GB Blue (MU1P3RX/A)",
         "price": 56999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -2350,23 +2369,8 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 318463264,
-        "name": "Мобільний телефон Apple iPhone 13 mini 128GB Blue (MLK43HU/A)",
-        "price": 28999,
-        "ram": "Немає даних",
-        "storage": "128 ГБ",
-        "colors": [
-            "#33F"
-        ],
-        "display": "Екран (5.4\", OLED (Super Retina XDR)",
-        "processor": "Apple A15",
-        "system": "iOS 15",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-13-mini-128gb-blue/p318463264/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
         "id": 352490745,
-        "name": "Мобільний телефон Apple iPhone 14 Pro 512GB Silver (MQ1W3RX/A)",
+        "name": "Apple iPhone 14 Pro 512GB Silver (MQ1W3RX/A)",
         "price": 54999,
         "ram": "Немає даних",
         "storage": "512 ГБ",
@@ -2380,26 +2384,23 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 352490739,
-        "name": "Мобільний телефон Apple iPhone 14 Plus 512GB Blue (MQ5G3RX/A)",
-        "price": 43000,
+        "id": 318463264,
+        "name": "Apple iPhone 13 mini 128GB Blue (MLK43HU/A)",
+        "price": 28999,
         "ram": "Немає даних",
-        "storage": "512 ГБ",
+        "storage": "128 ГБ",
         "colors": [
-            "#33F",
-            "#181F27",
-            "#909",
-            "#F8F3EF"
+            "#33F"
         ],
-        "display": "Екран (6.7\", OLED (Super Retina XDR)",
+        "display": "Екран (5.4\", OLED (Super Retina XDR)",
         "processor": "Apple A15",
-        "system": "iOS 16",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-14-plus-512gb-blue/p352490739/",
+        "system": "iOS 15",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-13-mini-128gb-blue/p318463264/",
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
         "id": 370106826,
-        "name": "Мобільний телефон Apple iPhone 14 Plus 128GB Yellow (MR693RX/A)",
+        "name": "Apple iPhone 14 Plus 128GB Yellow (MR693RX/A)",
         "price": 34999,
         "ram": "Немає даних",
         "storage": "Немає даних",
@@ -2418,7 +2419,7 @@
     },
     {
         "id": 318462052,
-        "name": "Мобільний телефон Apple iPhone 13 mini 128GB Midnight (MLK03HU/A)",
+        "name": "Apple iPhone 13 mini 128GB Midnight (MLK03HU/A)",
         "price": 28999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -2432,8 +2433,23 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
+        "id": 318463285,
+        "name": "Apple iPhone 13 mini 256GB Midnight (MLK53HU/A)",
+        "price": 29999,
+        "ram": "Немає даних",
+        "storage": "256 ГБ",
+        "colors": [
+            "#181F27"
+        ],
+        "display": "Екран (5.4\", OLED (Super Retina XDR)",
+        "processor": "Apple A15",
+        "system": "iOS 15",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-13-mini-256gb-midnight/p318463285/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
         "id": 352490814,
-        "name": "Мобільний телефон Apple iPhone 14 Plus 256GB Starlight (MQ553RX/A)",
+        "name": "Apple iPhone 14 Plus 256GB Starlight (MQ553RX/A)",
         "price": 41999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -2451,7 +2467,7 @@
     },
     {
         "id": 370108650,
-        "name": "Мобільний телефон Apple iPhone 14 Plus 256GB Yellow (MR6D3RX/A)",
+        "name": "Apple iPhone 14 Plus 256GB Yellow (MR6D3RX/A)",
         "price": 41999,
         "ram": "Немає даних",
         "storage": "Немає даних",
@@ -2469,23 +2485,8 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 318463285,
-        "name": "Мобільний телефон Apple iPhone 13 mini 256GB Midnight (MLK53HU/A)",
-        "price": 29999,
-        "ram": "Немає даних",
-        "storage": "256 ГБ",
-        "colors": [
-            "#181F27"
-        ],
-        "display": "Екран (5.4\", OLED (Super Retina XDR)",
-        "processor": "Apple A15",
-        "system": "iOS 15",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-13-mini-256gb-midnight/p318463285/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
         "id": 318463123,
-        "name": "Мобільний телефон Apple iPhone 13 mini 128GB Starlight (MLK13HU/A)",
+        "name": "Apple iPhone 13 mini 128GB Starlight (MLK13HU/A)",
         "price": 28999,
         "ram": "Немає даних",
         "storage": "128 ГБ",
@@ -2500,7 +2501,7 @@
     },
     {
         "id": 352490787,
-        "name": "Мобільний телефон Apple iPhone 14 Plus 256GB Midnight (MQ533RX/A)",
+        "name": "Apple iPhone 14 Plus 256GB Midnight (MQ533RX/A)",
         "price": 41999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -2517,23 +2518,8 @@
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     },
     {
-        "id": 318463579,
-        "name": "Мобільний телефон Apple iPhone 13 mini 256GB Pink (MLK73HU/A)",
-        "price": 33999,
-        "ram": "Немає даних",
-        "storage": "256 ГБ",
-        "colors": [
-            "#F9F"
-        ],
-        "display": "Екран (5.4\", OLED (Super Retina XDR)",
-        "processor": "Apple A15",
-        "system": "iOS 15",
-        "url": "https://rozetka.com.ua/ua/apple-iphone-13-mini-256gb-pink/p318463579/",
-        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
-    },
-    {
         "id": 318463309,
-        "name": "Мобільний телефон Apple iPhone 13 mini 256GB Starlight (MLK63HU/A)",
+        "name": "Apple iPhone 13 mini 256GB Starlight (MLK63HU/A)",
         "price": 33999,
         "ram": "Немає даних",
         "storage": "256 ГБ",
@@ -2544,6 +2530,21 @@
         "processor": "Apple A15",
         "system": "iOS 15",
         "url": "https://rozetka.com.ua/ua/apple-iphone-13-mini-256gb-starlight/p318463309/",
+        "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
+    },
+    {
+        "id": 318463579,
+        "name": "Apple iPhone 13 mini 256GB Pink (MLK73HU/A)",
+        "price": 33999,
+        "ram": "Немає даних",
+        "storage": "256 ГБ",
+        "colors": [
+            "#F9F"
+        ],
+        "display": "Екран (5.4\", OLED (Super Retina XDR)",
+        "processor": "Apple A15",
+        "system": "iOS 15",
+        "url": "https://rozetka.com.ua/ua/apple-iphone-13-mini-256gb-pink/p318463579/",
         "image_url": "https://xl-static.rozetka.com.ua/assets/img/design/stubs/goods-stub.svg"
     }
 ]

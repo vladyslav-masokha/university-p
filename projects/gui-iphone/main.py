@@ -38,6 +38,7 @@ def get_iphones():
         for block in product_blocks:
             id = int(block.find("div", class_="g-id").text.strip())
             name = block.find("span", class_="goods-tile__title").text.strip()
+            name = name.replace("Мобільний телефон ", "")
 
             price_text = block.find("span", class_="goods-tile__price-value").text.strip()
             price = int("".join(filter(str.isdigit, price_text)))
