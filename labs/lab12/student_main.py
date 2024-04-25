@@ -7,7 +7,7 @@ class Matrix:
     def add_element(self, row, col, value):
         self.data[row][col] = value
 
-    def sum(self):
+    def sum_of_rows(self):
         return [sum(row) for row in self.data]
 
     def transpose(self):
@@ -17,7 +17,7 @@ class Matrix:
                 transposed.data[j][i] = self.data[i][j]
         return transposed
 
-    def multiply(self, other):
+    def multiply_by(self, other):
         if self.cols != other.rows:
             raise ValueError("Invalid matrix dimensions for multiplication")
         result = Matrix(self.rows, other.cols)
