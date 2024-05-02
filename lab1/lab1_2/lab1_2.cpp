@@ -15,11 +15,11 @@ int main() {
   PhoneInfo phone;
   int brandValue, modelValue;
 
-  cout << "Enter the brand of the phone (1 - Apple, 2 - Samsung, 3 - Xiaomi): ";
+  cout << "Enter the brand of the phone (0 - Apple, 1 - Samsung, 2 - Xiaomi): ";
   cin >> brandValue;
   phone.brand = static_cast<Brand>(brandValue);
 
-  cout << "Enter the model of the phone (1 - iPhone, 2 - Galaxy, 3 - MI): ";
+  cout << "Enter the model of the phone (0 - iPhone, 1 - Galaxy, 2 - MI): ";
   cin >> modelValue;
   phone.model = static_cast<Model>(modelValue);
 
