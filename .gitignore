@@ -1,2 +1,4 @@
 *.docx
+.vs/
+x64/
 .gitignore
