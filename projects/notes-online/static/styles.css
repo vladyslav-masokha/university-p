@@ -1,0 +1,174 @@
+html,
+body {
+	padding: 0;
+	margin: 0;
+}
+
+#root {
+	max-width: 500px;
+	margin: 30px auto;
+	padding: 15px 0;
+}
+
+.formTitle {
+	text-align: center;
+	padding: 0;
+	color: #222;
+	margin: 0 0 15px;
+}
+
+.notes {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+}
+
+.form {
+	width: 80%;
+	margin: 0 auto;
+	padding: 15px;
+
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	box-shadow: 0 0 15px #000;
+	border-radius: 20px;
+	gap: 15px;
+}
+
+input[type='text'] {
+	border-radius: 5px;
+	padding: 10px 15px;
+	font-size: 14px;
+	outline: none;
+	border: none;
+	border: 1px solid #222;
+}
+
+button[type='submit'] {
+	border-radius: 5px;
+	padding: 10px 15px;
+	outline: none;
+	border: none;
+	cursor: pointer;
+
+	background-color: #8cc3f4;
+	transition: background 0.5s ease-in-out;
+}
+
+button[type='submit']:hover {
+	background-color: #6288a9;
+}
+
+.clearButton {
+	display: block;
+	margin: 0 auto;
+	padding: 0 !important;
+	background: transparent !important;
+	border-radius: 0 !important;
+	text-align: center;
+	color: #f00;
+	text-decoration: none;
+}
+
+.clearButton:hover {
+	color: #bc0000;
+}
+
+.noteList {
+	width: 80%;
+	list-style-type: none;
+	padding: 0;
+	margin: 0 auto;
+
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+}
+
+.note {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #fff;
+	padding: 10px;
+	border-radius: 4px;
+	box-shadow: 0 2px 4px #00000045;
+}
+
+.noteButtons {
+	display: flex;
+
+	a {
+		text-decoration: none;
+		font-weight: 700;
+
+		&:not(:first-child) {
+			margin: 0 0 0 15px;
+		}
+	}
+}
+
+.editButton {
+	color: #6288a9;
+}
+
+.deleteButton {
+	color: #f00;
+}
+
+#login,
+#register {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+#username,
+#password {
+	width: 100%;
+	padding: 10px 0;
+	border-radius: 5px;
+	font-size: 14px;
+	outline: none;
+	border: none;
+	border: 1px solid #222;
+}
+
+#loginBtn,
+#linkToReg,
+#registerBtn,
+#linkToLog {
+	padding: 10px 0;
+	border-radius: 20px;
+	color: #000;
+	font-weight: 700;
+	cursor: pointer;
+	background: transparent;
+	transition: all 0.5s ease-in-out;
+
+	&:hover {
+		border: 2px solid transparent;
+		color: #fff;
+	}
+}
+
+#loginBtn,
+#registerBtn {
+	border: 2px solid #6288a9;
+
+	&:hover {
+		background: #6288a9;
+	}
+}
+
+#linkToReg,
+#linkToLog {
+	width: 100%;
+	border: 2px solid #f00;
+	text-decoration: none;
+
+	&:hover {
+		background: #f00;
+	}
+}
